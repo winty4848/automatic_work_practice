@@ -1,5 +1,0 @@
-name : À±Ã¤À±
-age : 49
-e-mail : 5qq1q10g@nate.com
-telephone : 010-2426-1024
-sex : male

@@ -1,5 +1,0 @@
-name : ¹ÚÇÏÁØ
-age : 57
-e-mail : gcyeh@nate.com
-telephone : 010-1766-7917
-sex : female

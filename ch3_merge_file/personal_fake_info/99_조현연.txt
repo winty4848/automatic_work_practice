@@ -1,5 +1,0 @@
-name : Á¶Çö¿¬
-age : 60
-e-mail : gblw8wxy2@naver.com
-telephone : 010-9227-9792
-sex : female

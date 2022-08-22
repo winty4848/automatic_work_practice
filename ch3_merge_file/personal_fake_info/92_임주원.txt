@@ -1,5 +1,0 @@
-name : юсаж©Ь
-age : 51
-e-mail : m8wae5dz@kakao.com
-telephone : 010-2994-8229
-sex : female

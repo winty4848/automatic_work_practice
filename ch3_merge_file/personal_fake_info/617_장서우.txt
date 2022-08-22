@@ -1,5 +1,0 @@
-name : Àå¼­¿ì
-age : 24
-e-mail : zc2724xpvno6@google.com
-telephone : 010-9178-1291
-sex : male

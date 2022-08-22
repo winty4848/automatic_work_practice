@@ -1,5 +1,0 @@
-name : ±è¼­¿ì
-age : 52
-e-mail : ewzyyaqfdqz@google.com
-telephone : 010-7586-4775
-sex : male

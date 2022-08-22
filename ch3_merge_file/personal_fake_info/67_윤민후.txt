@@ -1,5 +1,0 @@
-name : À±¹ÎÈÄ
-age : 52
-e-mail : yc6c1gec@kakao.com
-telephone : 010-4952-8549
-sex : male

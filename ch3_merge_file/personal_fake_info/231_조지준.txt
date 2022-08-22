@@ -1,5 +1,0 @@
-name : Á¶ÁöÁØ
-age : 35
-e-mail : ufotuyxuyme@nate.com
-telephone : 010-2373-6023
-sex : male

@@ -1,5 +1,0 @@
-name : Àå¼­¿ì
-age : 38
-e-mail : ulic6bv01hyg@kakao.com
-telephone : 010-5658-1656
-sex : male

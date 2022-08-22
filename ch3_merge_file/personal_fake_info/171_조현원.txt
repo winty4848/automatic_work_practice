@@ -1,5 +1,0 @@
-name : Á¶Çö¿ø
-age : 39
-e-mail : h7konffi@nate.com
-telephone : 010-1704-7917
-sex : male

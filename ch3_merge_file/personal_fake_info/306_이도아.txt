@@ -1,5 +1,0 @@
-name : ¿Ãµµæ∆
-age : 24
-e-mail : ppqf1fz@kakao.com
-telephone : 010-9769-9497
-sex : male

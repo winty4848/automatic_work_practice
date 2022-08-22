@@ -1,5 +1,0 @@
-name : ¡§¡÷ø¨
-age : 55
-e-mail : m677vol4@google.com
-telephone : 010-9948-4799
-sex : male

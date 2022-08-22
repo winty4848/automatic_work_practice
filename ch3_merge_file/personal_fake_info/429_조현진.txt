@@ -1,5 +1,0 @@
-name : Á¶ÇöÁø
-age : 43
-e-mail : k3mxswz@naver.com
-telephone : 010-4027-0740
-sex : female

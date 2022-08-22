@@ -1,5 +1,0 @@
-name : Á¶Ã¤È£
-age : 25
-e-mail : 21z304vzlm7@google.com
-telephone : 010-1487-6414
-sex : female

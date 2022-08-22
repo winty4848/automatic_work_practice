@@ -1,5 +1,0 @@
-name : À±À±À±
-age : 46
-e-mail : ggzo8uufy@naver.com
-telephone : 010-8336-1983
-sex : female

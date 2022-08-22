@@ -1,5 +1,0 @@
-name : นฺม๖มุ
-age : 44
-e-mail : 5fuz03@kakao.com
-telephone : 010-7383-1673
-sex : male

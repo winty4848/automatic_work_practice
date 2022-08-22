@@ -1,5 +1,0 @@
-name : ±èÁö¼­
-age : 49
-e-mail : a3k1g2@naver.com
-telephone : 010-9643-7296
-sex : female

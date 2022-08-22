@@ -1,5 +1,0 @@
-name : Á¤¼­¿ì
-age : 23
-e-mail : 5w7vb181foup@naver.com
-telephone : 010-0466-7604
-sex : female

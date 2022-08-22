@@ -1,5 +1,0 @@
-name : ÀåÁöÀº
-age : 52
-e-mail : tg8fl7@naver.com
-telephone : 010-6798-6667
-sex : male

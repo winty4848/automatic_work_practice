@@ -1,5 +1,0 @@
-name : Á¤ÁÖÈÄ
-age : 35
-e-mail : qppp8wmlig@naver.com
-telephone : 010-5839-1058
-sex : female

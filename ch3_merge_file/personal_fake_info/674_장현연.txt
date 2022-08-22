@@ -1,5 +1,0 @@
-name : ÀåÇö¿¬
-age : 33
-e-mail : 36kce@tistory.com
-telephone : 010-4153-2541
-sex : female

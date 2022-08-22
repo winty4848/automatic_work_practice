@@ -1,5 +1,0 @@
-name : ¹ÚÃ¤¼­
-age : 57
-e-mail : oyaa2zc@kakao.com
-telephone : 010-6668-9166
-sex : male

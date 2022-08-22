@@ -1,5 +1,0 @@
-name : ¹ÚÀ±Áø
-age : 55
-e-mail : dyonso@tistory.com
-telephone : 010-4623-5746
-sex : female

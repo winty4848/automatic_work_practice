@@ -1,5 +1,0 @@
-name : À±ÁöÈÄ
-age : 56
-e-mail : nd4tp@google.com
-telephone : 010-9643-7296
-sex : female

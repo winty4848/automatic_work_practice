@@ -1,5 +1,0 @@
-name : ¹Ú¹Î¿¬
-age : 39
-e-mail : p3sofc@nate.com
-telephone : 010-2373-6023
-sex : male

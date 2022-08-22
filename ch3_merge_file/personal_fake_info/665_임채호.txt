@@ -1,5 +1,0 @@
-name : ¿”√§»£
-age : 60
-e-mail : zolcx0@nate.com
-telephone : 010-5306-3853
-sex : male

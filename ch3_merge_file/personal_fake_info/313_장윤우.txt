@@ -1,5 +1,0 @@
-name : ¿Â¿±øÏ
-age : 53
-e-mail : 1bach@google.com
-telephone : 010-2216-2622
-sex : female

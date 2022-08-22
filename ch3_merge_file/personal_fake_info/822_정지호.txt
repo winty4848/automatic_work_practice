@@ -1,5 +1,0 @@
-name : Á¤ÁöÈ£
-age : 55
-e-mail : q8l49ng8zon@nate.com
-telephone : 010-1487-6414
-sex : male

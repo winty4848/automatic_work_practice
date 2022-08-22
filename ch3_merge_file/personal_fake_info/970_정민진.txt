@@ -1,5 +1,0 @@
-name : Á¤¹ÎÁø
-age : 24
-e-mail : y4zsru@kakao.com
-telephone : 010-1542-8515
-sex : male

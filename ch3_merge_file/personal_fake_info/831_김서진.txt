@@ -1,5 +1,0 @@
-name : ±è¼­Áø
-age : 37
-e-mail : 7yawy4z@nate.com
-telephone : 010-1033-5710
-sex : male

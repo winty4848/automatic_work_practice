@@ -1,5 +1,0 @@
-name : а╤го╬ф
-age : 56
-e-mail : adl5ox@naver.com
-telephone : 010-3502-0335
-sex : male

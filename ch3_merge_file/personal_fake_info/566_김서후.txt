@@ -1,5 +1,0 @@
-name : ±è¼­ÈÄ
-age : 55
-e-mail : 6eoy8nlgk2k9@naver.com
-telephone : 010-2427-0424
-sex : male

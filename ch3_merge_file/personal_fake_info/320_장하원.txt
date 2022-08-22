@@ -1,5 +1,0 @@
-name : ÀåÇÏ¿ø
-age : 38
-e-mail : a5hvt4s@kakao.com
-telephone : 010-8411-4184
-sex : female

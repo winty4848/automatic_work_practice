@@ -1,5 +1,0 @@
-name : ±èÁöÈ£
-age : 58
-e-mail : f7sxco71vz@kakao.com
-telephone : 010-0466-7604
-sex : female

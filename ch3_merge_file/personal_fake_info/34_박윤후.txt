@@ -1,5 +1,0 @@
-name : ¹ÚÀ±ÈÄ
-age : 25
-e-mail : rgdo0vi@nate.com
-telephone : 010-5555-3555
-sex : female

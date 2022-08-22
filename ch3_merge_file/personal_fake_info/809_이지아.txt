@@ -1,5 +1,0 @@
-name : ÀÌÁö¾Æ
-age : 47
-e-mail : r7fnh2@tistory.com
-telephone : 010-2426-1024
-sex : female

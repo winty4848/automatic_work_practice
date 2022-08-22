@@ -1,5 +1,0 @@
-name : ¿Âº≠¿∫
-age : 35
-e-mail : s64qk@nate.com
-telephone : 010-8927-9489
-sex : female

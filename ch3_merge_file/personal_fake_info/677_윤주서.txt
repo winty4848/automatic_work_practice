@@ -1,5 +1,0 @@
-name : ¿±¡÷º≠
-age : 58
-e-mail : szrampt@naver.com
-telephone : 010-4153-2541
-sex : female

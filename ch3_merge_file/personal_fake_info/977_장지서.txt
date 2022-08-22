@@ -1,5 +1,0 @@
-name : ÀåÁö¼­
-age : 48
-e-mail : p8u9m@naver.com
-telephone : 010-7746-0077
-sex : female

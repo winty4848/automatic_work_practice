@@ -1,5 +1,0 @@
-name : юс╧ню╠
-age : 33
-e-mail : ksrka8hbx9@kakao.com
-telephone : 010-1033-5710
-sex : male

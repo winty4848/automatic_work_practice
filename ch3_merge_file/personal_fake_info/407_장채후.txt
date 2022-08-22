@@ -1,5 +1,0 @@
-name : ÀåÃ¤ÈÄ
-age : 24
-e-mail : 66sh0qptmih@naver.com
-telephone : 010-5399-6053
-sex : female

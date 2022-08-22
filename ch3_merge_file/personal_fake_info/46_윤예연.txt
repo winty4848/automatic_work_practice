@@ -1,5 +1,0 @@
-name : À±¿¹¿¬
-age : 42
-e-mail : fu2nas0t4e@tistory.com
-telephone : 010-9283-7292
-sex : female

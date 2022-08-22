@@ -1,5 +1,0 @@
-name : Á¶¹ÎÁø
-age : 35
-e-mail : aenab8h@tistory.com
-telephone : 010-7732-6977
-sex : female

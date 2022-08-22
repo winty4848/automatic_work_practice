@@ -1,5 +1,0 @@
-name : ¹Ú¿¹¿ø
-age : 49
-e-mail : 2ep84yf@naver.com
-telephone : 010-9702-1897
-sex : male

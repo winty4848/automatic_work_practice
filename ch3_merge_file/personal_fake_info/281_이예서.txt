@@ -1,5 +1,0 @@
-name : ÀÌ¿¹¼­
-age : 33
-e-mail : amh5m4qz55av@naver.com
-telephone : 010-9702-1897
-sex : female

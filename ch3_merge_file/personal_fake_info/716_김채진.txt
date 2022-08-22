@@ -1,5 +1,0 @@
-name : ±èÃ¤Áø
-age : 36
-e-mail : wzsir1n40idb@kakao.com
-telephone : 010-6622-3166
-sex : male

@@ -1,5 +1,0 @@
-name : °­ÇÏ¿¬
-age : 55
-e-mail : 0z8zckq@nate.com
-telephone : 010-5626-1356
-sex : male

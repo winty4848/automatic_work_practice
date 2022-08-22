@@ -1,5 +1,0 @@
-name : ±Ë¡÷º≠
-age : 56
-e-mail : 6a5137cy5s6@google.com
-telephone : 010-5685-3556
-sex : male

@@ -1,5 +1,0 @@
-name : юлаж©Ь
-age : 30
-e-mail : zgcar@google.com
-telephone : 010-5933-1959
-sex : male

@@ -1,5 +1,0 @@
-name : юлажаЬ
-age : 23
-e-mail : x0fzpn2q6ch@nate.com
-telephone : 010-9448-0094
-sex : male

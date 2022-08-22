@@ -1,5 +1,0 @@
-name : À±ÇöÈ£
-age : 34
-e-mail : 5e7k3dey4t@kakao.com
-telephone : 010-5475-8854
-sex : female

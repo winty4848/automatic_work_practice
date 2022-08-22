@@ -1,5 +1,0 @@
-name : À±µµÀ±
-age : 31
-e-mail : 5n1ng@google.com
-telephone : 010-5808-8758
-sex : male

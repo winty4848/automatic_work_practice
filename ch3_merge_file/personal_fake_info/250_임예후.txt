@@ -1,5 +1,0 @@
-name : ÀÓ¿¹ÈÄ
-age : 50
-e-mail : fm7uzdwezbvd@google.com
-telephone : 010-7218-2272
-sex : male

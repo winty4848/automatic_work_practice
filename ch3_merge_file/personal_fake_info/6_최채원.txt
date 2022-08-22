@@ -1,5 +1,0 @@
-name : ÃÖÃ¤¿ø
-age : 23
-e-mail : 21dih37t@tistory.com
-telephone : 010-1003-4810
-sex : female

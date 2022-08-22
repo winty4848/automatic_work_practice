@@ -1,5 +1,0 @@
-name : Á¤¿¹ÈÄ
-age : 34
-e-mail : uq3ax@kakao.com
-telephone : 010-6621-1366
-sex : female

@@ -1,5 +1,0 @@
-name : Á¶Ã¤Àº
-age : 37
-e-mail : kusunoza@naver.com
-telephone : 010-3964-2539
-sex : female

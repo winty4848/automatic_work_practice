@@ -1,5 +1,0 @@
-name : Á¤¹Î¿¬
-age : 34
-e-mail : bgqvznuc3x@kakao.com
-telephone : 010-5933-1959
-sex : male

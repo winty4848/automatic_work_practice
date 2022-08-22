@@ -1,5 +1,0 @@
-name : ¹ÚÁöÀº
-age : 40
-e-mail : 6n7ysrzw@nate.com
-telephone : 010-1542-8515
-sex : male

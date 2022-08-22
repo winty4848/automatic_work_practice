@@ -1,5 +1,0 @@
-name : ÀÓµµÁø
-age : 56
-e-mail : mvgl0am3z@google.com
-telephone : 010-0424-1604
-sex : female

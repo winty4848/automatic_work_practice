@@ -1,5 +1,0 @@
-name : ╧згоаЬ
-age : 32
-e-mail : rv3kvd14f@google.com
-telephone : 010-1641-2916
-sex : female

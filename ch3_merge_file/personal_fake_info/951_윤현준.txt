@@ -1,5 +1,0 @@
-name : À±ÇöÁØ
-age : 44
-e-mail : kp3zhtgxvwg3@naver.com
-telephone : 010-2913-3829
-sex : male

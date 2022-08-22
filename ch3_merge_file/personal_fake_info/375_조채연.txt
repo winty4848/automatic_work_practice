@@ -1,5 +1,0 @@
-name : Á¶Ã¤¿¬
-age : 23
-e-mail : nqz1esagfov@nate.com
-telephone : 010-8125-6681
-sex : male

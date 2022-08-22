@@ -1,5 +1,0 @@
-name : Á¤µµ¿¬
-age : 56
-e-mail : lqhbh@kakao.com
-telephone : 010-9104-2291
-sex : male

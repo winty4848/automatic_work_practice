@@ -1,5 +1,0 @@
-name : ±Ë¿±æ∆
-age : 33
-e-mail : hwb3d626w6v@tistory.com
-telephone : 010-7904-9479
-sex : male

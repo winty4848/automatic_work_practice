@@ -1,5 +1,0 @@
-name : юсажаЬ
-age : 26
-e-mail : aa7nzqt7@kakao.com
-telephone : 010-7825-9178
-sex : female

@@ -1,5 +1,0 @@
-name : Á¤¹Î¿ì
-age : 39
-e-mail : pveunwva@nate.com
-telephone : 010-9949-5199
-sex : female

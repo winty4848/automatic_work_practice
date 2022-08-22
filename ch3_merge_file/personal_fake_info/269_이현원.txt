@@ -1,5 +1,0 @@
-name : ÀÌÇö¿ø
-age : 20
-e-mail : 7g6999a50@tistory.com
-telephone : 010-7285-8772
-sex : male

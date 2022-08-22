@@ -1,5 +1,0 @@
-name : ¿ÃπŒ¿±
-age : 20
-e-mail : n6az3fgb@google.com
-telephone : 010-5685-3556
-sex : male

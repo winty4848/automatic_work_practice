@@ -1,5 +1,0 @@
-name : ÃÖÁö¾Æ
-age : 48
-e-mail : cwv0zni@kakao.com
-telephone : 010-4453-5744
-sex : male

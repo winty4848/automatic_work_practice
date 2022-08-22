@@ -1,5 +1,0 @@
-name : ÃÖÁÖÈÄ
-age : 49
-e-mail : t1z85swm0l@nate.com
-telephone : 010-5306-3853
-sex : male

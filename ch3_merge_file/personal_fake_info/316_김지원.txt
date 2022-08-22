@@ -1,5 +1,0 @@
-name : ±èÁö¿ø
-age : 36
-e-mail : znrpd94@kakao.com
-telephone : 010-2216-2622
-sex : female

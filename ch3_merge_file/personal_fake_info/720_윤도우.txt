@@ -1,5 +1,0 @@
-name : À±µµ¿ì
-age : 52
-e-mail : h93i73g@naver.com
-telephone : 010-2807-4728
-sex : male

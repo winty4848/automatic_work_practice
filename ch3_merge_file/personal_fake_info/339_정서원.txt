@@ -1,5 +1,0 @@
-name : Á¤¼­¿ø
-age : 50
-e-mail : heq8g6@tistory.com
-telephone : 010-7044-8870
-sex : male

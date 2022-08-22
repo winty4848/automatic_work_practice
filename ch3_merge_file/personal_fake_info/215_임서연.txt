@@ -1,5 +1,0 @@
-name : ¿”º≠ø¨
-age : 22
-e-mail : mzmzb@kakao.com
-telephone : 010-6508-0665
-sex : female

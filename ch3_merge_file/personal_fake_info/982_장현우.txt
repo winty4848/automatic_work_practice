@@ -1,5 +1,0 @@
-name : ÀåÇö¿ì
-age : 41
-e-mail : r9n08f7@nate.com
-telephone : 010-3958-1639
-sex : female

@@ -1,5 +1,0 @@
-name : ÃÖ¹Î¿ì
-age : 41
-e-mail : rrxhn4gfgpf@nate.com
-telephone : 010-4251-9142
-sex : male

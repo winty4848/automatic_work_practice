@@ -1,5 +1,0 @@
-name : ÀÓÁöÀ±
-age : 54
-e-mail : lfs0mgrhh@tistory.com
-telephone : 010-6482-3864
-sex : female

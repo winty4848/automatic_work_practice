@@ -1,5 +1,0 @@
-name : À±¿¹È£
-age : 41
-e-mail : ewayzrvw@tistory.com
-telephone : 010-5626-1356
-sex : female

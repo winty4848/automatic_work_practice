@@ -1,5 +1,0 @@
-name : °­À±¿ì
-age : 33
-e-mail : 9ezdf@naver.com
-telephone : 010-0409-3004
-sex : male

@@ -1,5 +1,0 @@
-name : ±è¹Î¼­
-age : 51
-e-mail : t56hdu7a8f3@naver.com
-telephone : 010-3958-1639
-sex : male

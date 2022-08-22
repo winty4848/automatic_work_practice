@@ -1,5 +1,0 @@
-name : а╓аж©Л
-age : 42
-e-mail : yb9azqnz@kakao.com
-telephone : 010-1932-5119
-sex : male

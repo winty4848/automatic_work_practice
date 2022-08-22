@@ -1,5 +1,0 @@
-name : °­ÇÏ¿ì
-age : 33
-e-mail : r621rx@nate.com
-telephone : 010-5985-1059
-sex : male

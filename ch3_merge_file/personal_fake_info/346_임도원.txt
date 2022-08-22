@@ -1,5 +1,0 @@
-name : юс╣╣©Ь
-age : 49
-e-mail : xlkee@kakao.com
-telephone : 010-3297-0432
-sex : female

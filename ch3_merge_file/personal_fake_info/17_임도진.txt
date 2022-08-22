@@ -1,5 +1,0 @@
-name : ÀÓµµÁø
-age : 56
-e-mail : s0r4hkr@tistory.com
-telephone : 010-8253-4182
-sex : male

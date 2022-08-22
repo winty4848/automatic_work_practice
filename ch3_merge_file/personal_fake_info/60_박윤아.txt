@@ -1,5 +1,0 @@
-name : ¹ÚÀ±¾Æ
-age : 52
-e-mail : qvh3qc6lw2@nate.com
-telephone : 010-3888-0738
-sex : male

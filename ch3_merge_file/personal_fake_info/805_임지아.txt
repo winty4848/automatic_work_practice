@@ -1,5 +1,0 @@
-name : юсаЖ╬ф
-age : 50
-e-mail : qnw9v63d2@nate.com
-telephone : 010-6214-9462
-sex : female

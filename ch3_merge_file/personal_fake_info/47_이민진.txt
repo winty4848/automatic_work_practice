@@ -1,5 +1,0 @@
-name : ÀÌ¹ÎÁø
-age : 28
-e-mail : ki4vqeo@naver.com
-telephone : 010-9283-7292
-sex : male

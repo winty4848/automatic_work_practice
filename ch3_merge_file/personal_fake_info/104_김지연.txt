@@ -1,5 +1,0 @@
-name : ±èÁö¿¬
-age : 42
-e-mail : q27rzfmh9@google.com
-telephone : 010-5434-1354
-sex : male

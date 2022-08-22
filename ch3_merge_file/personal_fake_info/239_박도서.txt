@@ -1,5 +1,0 @@
-name : ¹Úµµ¼­
-age : 47
-e-mail : 9czyg@naver.com
-telephone : 010-4792-9147
-sex : male

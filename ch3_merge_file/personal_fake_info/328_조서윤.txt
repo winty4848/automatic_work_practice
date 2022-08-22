@@ -1,5 +1,0 @@
-name : Á¶¼­À±
-age : 49
-e-mail : zzza8043e3z5@naver.com
-telephone : 010-4623-5746
-sex : male

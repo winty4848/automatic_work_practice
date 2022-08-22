@@ -1,5 +1,0 @@
-name : ±èÇö¼­
-age : 31
-e-mail : gqh5zm@tistory.com
-telephone : 010-7904-9479
-sex : male

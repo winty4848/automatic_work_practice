@@ -1,5 +1,0 @@
-name : ภฬว๖มุ
-age : 54
-e-mail : maiey8@google.com
-telephone : 010-5475-8854
-sex : female

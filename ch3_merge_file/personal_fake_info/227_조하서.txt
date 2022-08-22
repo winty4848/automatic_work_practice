@@ -1,5 +1,0 @@
-name : Á¶ÇÏ¼­
-age : 45
-e-mail : cte6yyzr@naver.com
-telephone : 010-6145-4461
-sex : female

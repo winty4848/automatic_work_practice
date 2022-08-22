@@ -1,5 +1,0 @@
-name : √÷¿±æ∆
-age : 24
-e-mail : nv966@naver.com
-telephone : 010-8578-7585
-sex : female

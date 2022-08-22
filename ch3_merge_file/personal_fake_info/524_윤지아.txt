@@ -1,5 +1,0 @@
-name : À±Áö¾Æ
-age : 42
-e-mail : qgyow5sz7m@google.com
-telephone : 010-1048-.910
-sex : male

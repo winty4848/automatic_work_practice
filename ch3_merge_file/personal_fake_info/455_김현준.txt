@@ -1,5 +1,0 @@
-name : ฑ่ว๖มุ
-age : 36
-e-mail : dm00zen82@naver.com
-telephone : 010-9888-7698
-sex : male

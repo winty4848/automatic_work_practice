@@ -1,5 +1,0 @@
-name : Á¶µµÀ±
-age : 35
-e-mail : dnbgwbdy1@google.com
-telephone : 010-5685-3556
-sex : female

@@ -1,5 +1,0 @@
-name : ¿Ãµµ¿∫
-age : 20
-e-mail : qp02emxz1@tistory.com
-telephone : 010-.579-13.5
-sex : male

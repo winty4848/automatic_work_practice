@@ -1,5 +1,0 @@
-name : ¹ÚÃ¤ÈÄ
-age : 59
-e-mail : 70c14sh4emn@tistory.com
-telephone : 010-5488-6354
-sex : female

@@ -1,5 +1,0 @@
-name : ±Ë¡÷øÏ
-age : 22
-e-mail : 9qb37wl@tistory.com
-telephone : 010-5606-4456
-sex : male

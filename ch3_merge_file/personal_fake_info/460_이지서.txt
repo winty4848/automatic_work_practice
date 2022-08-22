@@ -1,5 +1,0 @@
-name : ÀÌÁö¼­
-age : 58
-e-mail : zmzd47y97de@nate.com
-telephone : 010-5124-8551
-sex : female

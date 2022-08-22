@@ -1,5 +1,0 @@
-name : ±è¿¹¾Æ
-age : 44
-e-mail : 0wzazkt@google.com
-telephone : 010-0466-7604
-sex : female

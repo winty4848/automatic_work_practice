@@ -1,5 +1,0 @@
-name : ∞≠πŒ¿±
-age : 45
-e-mail : aehvpe@google.com
-telephone : 010-4363-3543
-sex : male

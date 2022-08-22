@@ -1,5 +1,0 @@
-name : Á¶Ã¤Áø
-age : 26
-e-mail : 3hsx5tw@nate.com
-telephone : 010-6784-6667
-sex : female

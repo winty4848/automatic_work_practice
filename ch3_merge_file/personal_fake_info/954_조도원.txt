@@ -1,5 +1,0 @@
-name : Á¶µµ¿ø
-age : 38
-e-mail : a2qethugo92@naver.com
-telephone : 010-9094-5390
-sex : male

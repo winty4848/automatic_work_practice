@@ -1,5 +1,0 @@
-name : ¹Ú¿¹Àº
-age : 50
-e-mail : 1ws4lc7rpv8@naver.com
-telephone : 010-8347-5083
-sex : female

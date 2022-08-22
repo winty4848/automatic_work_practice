@@ -1,5 +1,0 @@
-name : À±¹Î¼­
-age : 58
-e-mail : sx09qubqz@google.com
-telephone : 010-0368-2603
-sex : female

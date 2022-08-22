@@ -1,5 +1,0 @@
-name : Á¶ÁöÈ£
-age : 50
-e-mail : ddonru5q@nate.com
-telephone : 010-1355-3213
-sex : female

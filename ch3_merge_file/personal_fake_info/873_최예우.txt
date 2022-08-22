@@ -1,5 +1,0 @@
-name : ÃÖ¿¹¿ì
-age : 24
-e-mail : xm5h1gi1pzf@naver.com
-telephone : 010-8347-5083
-sex : female

@@ -1,5 +1,0 @@
-name : юсаЖ╬ф
-age : 27
-e-mail : pfu6c8m@kakao.com
-telephone : 010-9278-7292
-sex : male

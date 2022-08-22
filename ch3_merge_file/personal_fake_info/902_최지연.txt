@@ -1,5 +1,0 @@
-name : ÃÖÁö¿¬
-age : 53
-e-mail : szayc51gqeb@kakao.com
-telephone : 010-3316-8133
-sex : male

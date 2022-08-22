@@ -1,5 +1,0 @@
-name : ¹ÚÀ±Àº
-age : 28
-e-mail : 4cwfltzh@naver.com
-telephone : 010-0177-3201
-sex : male

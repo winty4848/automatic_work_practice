@@ -1,5 +1,0 @@
-name : ¹Ú¿¹À±
-age : 34
-e-mail : 85wkd@nate.com
-telephone : 010-0487-0704
-sex : male

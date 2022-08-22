@@ -1,5 +1,0 @@
-name : Á¤¼­¿ì
-age : 29
-e-mail : 3p5t7v@google.com
-telephone : 010-9948-4799
-sex : female

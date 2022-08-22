@@ -1,5 +1,0 @@
-name : юс╧ню╨
-age : 49
-e-mail : 74gdv@tistory.com
-telephone : 010-8934-0089
-sex : female

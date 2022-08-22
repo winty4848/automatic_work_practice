@@ -1,5 +1,0 @@
-name : ÀÌ¿¹Áø
-age : 34
-e-mail : rtosq@naver.com
-telephone : 010-6203-6362
-sex : male

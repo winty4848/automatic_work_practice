@@ -1,5 +1,0 @@
-name : ÃÖÁöÈÄ
-age : 34
-e-mail : iumd7h5e@tistory.com
-telephone : 010-3495-8834
-sex : female

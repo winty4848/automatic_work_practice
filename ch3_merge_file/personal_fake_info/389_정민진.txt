@@ -1,5 +1,0 @@
-name : Á¤¹ÎÁø
-age : 25
-e-mail : bqgxuk@naver.com
-telephone : 010-0535-9805
-sex : male

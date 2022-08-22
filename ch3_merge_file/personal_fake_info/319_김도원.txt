@@ -1,5 +1,0 @@
-name : ±èµµ¿ø
-age : 20
-e-mail : tgp32@google.com
-telephone : 010-8411-4184
-sex : female

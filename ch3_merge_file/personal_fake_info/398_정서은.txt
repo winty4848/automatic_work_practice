@@ -1,5 +1,0 @@
-name : Á¤¼­Àº
-age : 32
-e-mail : psm70sod@nate.com
-telephone : 010-9296-6292
-sex : female

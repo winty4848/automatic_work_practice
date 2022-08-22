@@ -1,5 +1,0 @@
-name : °­¿¹Àº
-age : 42
-e-mail : n1cbk@google.com
-telephone : 010-6482-3864
-sex : female

@@ -1,5 +1,0 @@
-name : ±è¼­À±
-age : 31
-e-mail : payz8e040c6@google.com
-telephone : 010-4027-0740
-sex : male

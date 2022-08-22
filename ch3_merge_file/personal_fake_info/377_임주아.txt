@@ -1,5 +1,0 @@
-name : юсаж╬ф
-age : 25
-e-mail : dd0gwi35g8@nate.com
-telephone : 010-2433-5824
-sex : male

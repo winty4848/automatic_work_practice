@@ -1,5 +1,0 @@
-name : а╤гохё
-age : 34
-e-mail : xdnql1v1nrv@naver.com
-telephone : 010-0563-5105
-sex : male

@@ -1,5 +1,0 @@
-name : ¹ÚÁö¿ø
-age : 30
-e-mail : zb5rgk@tistory.com
-telephone : 010-6773-1367
-sex : female

@@ -1,5 +1,0 @@
-name : ¹Ú¼­¿ø
-age : 56
-e-mail : 4b2kc@google.com
-telephone : 010-8336-1983
-sex : female

@@ -1,5 +1,0 @@
-name : À±µµÈÄ
-age : 41
-e-mail : 2de8p@naver.com
-telephone : 010-5985-1059
-sex : female

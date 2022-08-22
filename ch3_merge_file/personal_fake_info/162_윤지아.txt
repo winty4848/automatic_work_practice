@@ -1,5 +1,0 @@
-name : À±Áö¾Æ
-age : 58
-e-mail : clha5984k@kakao.com
-telephone : 010-5488-6354
-sex : female

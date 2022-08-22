@@ -1,5 +1,0 @@
-name : À±ÇöÁØ
-age : 24
-e-mail : 197n2vbfd8p@tistory.com
-telephone : 010-3772-3237
-sex : male

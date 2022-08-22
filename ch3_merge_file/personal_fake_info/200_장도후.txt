@@ -1,5 +1,0 @@
-name : ÀåµµÈÄ
-age : 45
-e-mail : 3eqv27taeptz@nate.com
-telephone : 010-9448-0094
-sex : female

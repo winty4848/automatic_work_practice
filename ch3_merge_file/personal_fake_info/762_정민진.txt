@@ -1,5 +1,0 @@
-name : Á¤¹ÎÁø
-age : 45
-e-mail : 5iw91i2xm@google.com
-telephone : 010-2722-8527
-sex : female

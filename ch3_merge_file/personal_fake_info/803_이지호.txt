@@ -1,5 +1,0 @@
-name : ÀÌÁöÈ£
-age : 33
-e-mail : xd54nu@tistory.com
-telephone : 010-6214-9462
-sex : male

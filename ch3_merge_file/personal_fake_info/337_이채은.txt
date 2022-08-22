@@ -1,5 +1,0 @@
-name : ¿Ã√§¿∫
-age : 56
-e-mail : z8z28u83@kakao.com
-telephone : 010-7044-8870
-sex : male

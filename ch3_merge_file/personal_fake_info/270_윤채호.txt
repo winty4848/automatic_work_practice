@@ -1,5 +1,0 @@
-name : À±Ã¤È£
-age : 39
-e-mail : glygg86l@tistory.com
-telephone : 010-7285-8772
-sex : female

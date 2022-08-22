@@ -1,5 +1,0 @@
-name : À±¿¹Àº
-age : 60
-e-mail : xo1i3eqt@google.com
-telephone : 010-8347-5083
-sex : male

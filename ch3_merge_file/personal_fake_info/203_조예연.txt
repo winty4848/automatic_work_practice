@@ -1,5 +1,0 @@
-name : Á¶¿¹¿¬
-age : 40
-e-mail : 4r215mayn@kakao.com
-telephone : 010-8088-4780
-sex : male

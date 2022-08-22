@@ -1,5 +1,0 @@
-name : ÃÖÇöÈ£
-age : 48
-e-mail : xkx7fus@google.com
-telephone : 010-1704-7917
-sex : female

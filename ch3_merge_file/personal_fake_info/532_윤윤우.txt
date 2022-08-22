@@ -1,5 +1,0 @@
-name : À±À±¿ì
-age : 58
-e-mail : 9h783rrze5@google.com
-telephone : 010-1012-2610
-sex : female

@@ -1,5 +1,0 @@
-name : °­Áö¿¬
-age : 44
-e-mail : t0nv8yz@google.com
-telephone : 010-0116-2301
-sex : female

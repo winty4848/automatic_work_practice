@@ -1,5 +1,0 @@
-name : Á¤¿¹¾Æ
-age : 22
-e-mail : 1ncqzyv@nate.com
-telephone : 010-1048-.910
-sex : male

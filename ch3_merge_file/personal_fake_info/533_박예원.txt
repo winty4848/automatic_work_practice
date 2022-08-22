@@ -1,5 +1,0 @@
-name : ¹Ú¿¹¿ø
-age : 43
-e-mail : e0psr@naver.com
-telephone : 010-1012-2610
-sex : male

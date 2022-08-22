@@ -1,5 +1,0 @@
-name : Á¶À±¾Æ
-age : 23
-e-mail : fedqhca6ri@naver.com
-telephone : 010-6668-9166
-sex : male

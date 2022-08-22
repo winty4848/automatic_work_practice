@@ -1,5 +1,0 @@
-name : ÀåÁÖÈÄ
-age : 22
-e-mail : vvrold@naver.com
-telephone : 010-1033-5710
-sex : female

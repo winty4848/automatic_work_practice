@@ -1,5 +1,0 @@
-name : юсажаЬ
-age : 36
-e-mail : 213vsz5fiok9@google.com
-telephone : 010-4045-8840
-sex : female

@@ -1,5 +1,0 @@
-name : ±èÇÏ¿ì
-age : 57
-e-mail : ef3u2m1q@google.com
-telephone : 010-6744-4167
-sex : female

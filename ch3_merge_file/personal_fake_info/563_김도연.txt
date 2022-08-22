@@ -1,5 +1,0 @@
-name : ±èµµ¿¬
-age : 45
-e-mail : zkc3184@google.com
-telephone : 010-2427-0424
-sex : female

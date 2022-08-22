@@ -1,5 +1,0 @@
-name : ÀÌÁö¿¬
-age : 46
-e-mail : u0o0wt5@nate.com
-telephone : 010-6668-9166
-sex : male

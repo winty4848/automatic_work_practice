@@ -1,5 +1,0 @@
-name : ÀÓÇö¼­
-age : 58
-e-mail : zz98259qa@google.com
-telephone : 010-3316-8133
-sex : male

@@ -1,5 +1,0 @@
-name : ±èÇÏ¿ì
-age : 41
-e-mail : b9y7keh8@google.com
-telephone : 010-7732-6977
-sex : male

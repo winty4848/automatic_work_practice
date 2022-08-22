@@ -1,5 +1,0 @@
-name : Á¶À±ÈÄ
-age : 35
-e-mail : cs9ry6qc@tistory.com
-telephone : 010-0116-2301
-sex : female

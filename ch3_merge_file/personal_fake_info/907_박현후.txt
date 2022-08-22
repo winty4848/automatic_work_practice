@@ -1,5 +1,0 @@
-name : ¹ÚÇöÈÄ
-age : 33
-e-mail : hsz0wk@google.com
-telephone : 010-9413-2894
-sex : female

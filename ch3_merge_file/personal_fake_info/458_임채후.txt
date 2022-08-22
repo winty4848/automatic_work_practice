@@ -1,5 +1,0 @@
-name : ÀÓÃ¤ÈÄ
-age : 25
-e-mail : x6mahshkp2@tistory.com
-telephone : 010-9888-7698
-sex : female

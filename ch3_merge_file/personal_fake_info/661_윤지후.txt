@@ -1,5 +1,0 @@
-name : À±ÁöÈÄ
-age : 58
-e-mail : wa7kwvugb@tistory.com
-telephone : 010-9104-2291
-sex : male

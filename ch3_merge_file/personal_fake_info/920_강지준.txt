@@ -1,5 +1,0 @@
-name : °­ÁöÁØ
-age : 35
-e-mail : db6eigv@naver.com
-telephone : 010-1816-6018
-sex : female

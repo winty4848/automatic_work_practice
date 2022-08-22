@@ -1,5 +1,0 @@
-name : Á¶À±Àº
-age : 43
-e-mail : cnntid5x45um@nate.com
-telephone : 010-7746-0077
-sex : female

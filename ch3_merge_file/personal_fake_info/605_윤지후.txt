@@ -1,5 +1,0 @@
-name : À±ÁöÈÄ
-age : 49
-e-mail : erddp48g@nate.com
-telephone : 010-9407-9794
-sex : male

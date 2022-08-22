@@ -1,5 +1,0 @@
-name : Àå¼­¿ø
-age : 40
-e-mail : xz3rpm40@google.com
-telephone : 010-3754-1337
-sex : male

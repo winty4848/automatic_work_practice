@@ -1,5 +1,0 @@
-name : ¹Ú¼­¼­
-age : 55
-e-mail : 883xbpc@google.com
-telephone : 010-5292-6952
-sex : male

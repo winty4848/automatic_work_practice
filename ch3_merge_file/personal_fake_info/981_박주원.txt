@@ -1,5 +1,0 @@
-name : ╧заж©Ь
-age : 33
-e-mail : vqmx7@google.com
-telephone : 010-3958-1639
-sex : female

@@ -1,5 +1,0 @@
-name : ¿Ãµµæ∆
-age : 49
-e-mail : m6vqb@google.com
-telephone : 010-7746-0077
-sex : female

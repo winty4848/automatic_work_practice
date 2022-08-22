@@ -1,5 +1,0 @@
-name : Á¶ÁöÈÄ
-age : 26
-e-mail : w2zbhstw@naver.com
-telephone : 010-3502-0335
-sex : female

@@ -1,5 +1,0 @@
-name : Á¤À±¿¬
-age : 45
-e-mail : pkpy9psp59do@google.com
-telephone : 010-6773-1367
-sex : male

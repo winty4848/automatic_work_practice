@@ -1,5 +1,0 @@
-name : Á¶µµÀº
-age : 23
-e-mail : 3onkyhf@tistory.com
-telephone : 010-4758-3247
-sex : female

@@ -1,5 +1,0 @@
-name : ¿Âµµø¨
-age : 41
-e-mail : 0izd2lytyz@naver.com
-telephone : 010-8578-7585
-sex : male

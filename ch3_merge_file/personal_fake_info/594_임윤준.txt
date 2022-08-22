@@ -1,5 +1,0 @@
-name : ¿”¿±¡ÿ
-age : 22
-e-mail : geg35y75h@google.com
-telephone : 010-3176-8231
-sex : female

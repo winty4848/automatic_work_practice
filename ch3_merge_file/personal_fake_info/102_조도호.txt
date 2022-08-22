@@ -1,5 +1,0 @@
-name : Á¶µµÈ£
-age : 57
-e-mail : u8zg9k@google.com
-telephone : 010-5434-1354
-sex : male

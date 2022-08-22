@@ -1,5 +1,0 @@
-name : а╓го╬ф
-age : 47
-e-mail : scmv7dbii1@naver.com
-telephone : 010-6784-6667
-sex : female

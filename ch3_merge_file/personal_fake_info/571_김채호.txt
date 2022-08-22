@@ -1,5 +1,0 @@
-name : ±Ë√§»£
-age : 57
-e-mail : t31105@nate.com
-telephone : 010-8336-1983
-sex : female

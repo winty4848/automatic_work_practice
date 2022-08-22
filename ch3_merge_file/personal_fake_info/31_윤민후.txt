@@ -1,5 +1,0 @@
-name : À±¹ÎÈÄ
-age : 34
-e-mail : tg0o7xd@google.com
-telephone : 010-9331-1993
-sex : female

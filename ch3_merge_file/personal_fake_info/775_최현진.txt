@@ -1,5 +1,0 @@
-name : ÃÖÇöÁø
-age : 37
-e-mail : q63hlvso5c@google.com
-telephone : 010-1355-3213
-sex : female

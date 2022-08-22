@@ -1,5 +1,0 @@
-name : ¹ÚÁöÀº
-age : 37
-e-mail : tpsrq@kakao.com
-telephone : 010-2722-8527
-sex : male

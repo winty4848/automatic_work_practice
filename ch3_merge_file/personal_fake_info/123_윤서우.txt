@@ -1,5 +1,0 @@
-name : À±¼­¿ì
-age : 50
-e-mail : b8xq36gn@kakao.com
-telephone : 010-9278-7292
-sex : female

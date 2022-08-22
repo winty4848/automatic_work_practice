@@ -1,5 +1,0 @@
-name : Á¶À±ÈÄ
-age : 27
-e-mail : 7ivsu4r45@nate.com
-telephone : 010-7543-4175
-sex : female

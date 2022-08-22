@@ -1,5 +1,0 @@
-name : ¿Â«œ¡ÿ
-age : 32
-e-mail : tm2rxh@naver.com
-telephone : 010-5306-3853
-sex : female

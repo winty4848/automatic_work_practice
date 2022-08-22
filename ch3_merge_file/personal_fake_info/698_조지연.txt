@@ -1,5 +1,0 @@
-name : Á¶Áö¿¬
-age : 57
-e-mail : xbmzf3kfzf@naver.com
-telephone : 010-0409-3004
-sex : male

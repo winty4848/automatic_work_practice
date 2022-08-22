@@ -1,5 +1,0 @@
-name : а╤аж©Ь
-age : 41
-e-mail : zyyoar8v4@google.com
-telephone : 010-0487-0704
-sex : female

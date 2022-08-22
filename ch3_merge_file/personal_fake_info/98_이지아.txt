@@ -1,5 +1,0 @@
-name : ÀÌÁö¾Æ
-age : 54
-e-mail : 974nbva@naver.com
-telephone : 010-9227-9792
-sex : male

@@ -1,5 +1,0 @@
-name : À±¹ÎÁø
-age : 48
-e-mail : aktb3o@google.com
-telephone : 010-2807-4728
-sex : female

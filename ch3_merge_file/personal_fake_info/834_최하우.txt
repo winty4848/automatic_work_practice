@@ -1,5 +1,0 @@
-name : ÃÖÇÏ¿ì
-age : 48
-e-mail : bdi21k@tistory.com
-telephone : 010-2725-6727
-sex : female

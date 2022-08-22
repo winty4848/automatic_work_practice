@@ -1,5 +1,0 @@
-name : À±µµÀ±
-age : 39
-e-mail : 2xvyxo@naver.com
-telephone : 010-0177-3201
-sex : male

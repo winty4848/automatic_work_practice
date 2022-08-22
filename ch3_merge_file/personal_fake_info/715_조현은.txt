@@ -1,5 +1,0 @@
-name : Á¶ÇöÀº
-age : 49
-e-mail : ekyegzyk5@google.com
-telephone : 010-6622-3166
-sex : female

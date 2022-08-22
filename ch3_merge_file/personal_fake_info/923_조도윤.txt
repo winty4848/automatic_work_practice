@@ -1,5 +1,0 @@
-name : Á¶µµÀ±
-age : 59
-e-mail : sef6zqohax@naver.com
-telephone : 010-1816-6018
-sex : male

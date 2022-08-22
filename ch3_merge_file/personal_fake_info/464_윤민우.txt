@@ -1,5 +1,0 @@
-name : À±¹Î¿ì
-age : 26
-e-mail : c911a@naver.com
-telephone : 010-5124-8551
-sex : female

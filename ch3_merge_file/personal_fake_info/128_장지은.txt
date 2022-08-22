@@ -1,5 +1,0 @@
-name : ÀåÁöÀº
-age : 24
-e-mail : g6m897@google.com
-telephone : 010-9278-7292
-sex : male

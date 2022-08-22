@@ -1,5 +1,0 @@
-name : ¹ÚÃ¤Àº
-age : 23
-e-mail : aip5rl7bl7y@kakao.com
-telephone : 010-5626-1356
-sex : male

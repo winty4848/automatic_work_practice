@@ -1,5 +1,0 @@
-name : Á¤ÇöÁø
-age : 59
-e-mail : xzckh7u@naver.com
-telephone : 010-6214-9462
-sex : male

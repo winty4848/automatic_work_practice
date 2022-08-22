@@ -1,5 +1,0 @@
-name : цжаж╬ф
-age : 40
-e-mail : yspzas1@nate.com
-telephone : 010-4307-6343
-sex : male

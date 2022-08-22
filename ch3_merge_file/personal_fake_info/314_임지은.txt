@@ -1,5 +1,0 @@
-name : юсаЖю╨
-age : 27
-e-mail : q6kcz0hv8w@naver.com
-telephone : 010-2216-2622
-sex : male

@@ -1,5 +1,0 @@
-name : ±èµµ¾Æ
-age : 47
-e-mail : 3nhoh@google.com
-telephone : 010-5292-6952
-sex : male

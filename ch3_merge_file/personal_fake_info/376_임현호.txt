@@ -1,5 +1,0 @@
-name : ÀÓÇöÈ£
-age : 50
-e-mail : xt299xhg@naver.com
-telephone : 010-8125-6681
-sex : female

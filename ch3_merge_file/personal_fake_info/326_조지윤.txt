@@ -1,5 +1,0 @@
-name : Á¶ÁöÀ±
-age : 49
-e-mail : e6kvrzon6av@kakao.com
-telephone : 010-4623-5746
-sex : male

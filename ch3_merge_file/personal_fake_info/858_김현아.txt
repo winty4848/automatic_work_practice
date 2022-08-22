@@ -1,5 +1,0 @@
-name : ±èÇö¾Æ
-age : 27
-e-mail : 2bu4ppl@google.com
-telephone : 010-5933-1959
-sex : female

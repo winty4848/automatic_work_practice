@@ -1,5 +1,0 @@
-name : ¿Ãº≠¡ÿ
-age : 34
-e-mail : bi9cxza@google.com
-telephone : 010-2904-3629
-sex : female

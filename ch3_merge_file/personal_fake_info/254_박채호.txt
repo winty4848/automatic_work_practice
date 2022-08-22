@@ -1,5 +1,0 @@
-name : ¹ÚÃ¤È£
-age : 36
-e-mail : ak8xwe9@tistory.com
-telephone : 010-3435-3834
-sex : female

@@ -1,5 +1,0 @@
-name : Á¶ÁöÈ£
-age : 57
-e-mail : f0g0p@google.com
-telephone : 010-9407-9794
-sex : female

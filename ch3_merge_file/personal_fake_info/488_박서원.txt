@@ -1,5 +1,0 @@
-name : ¹Ú¼­¿ø
-age : 33
-e-mail : eor0tobl@nate.com
-telephone : 010-3772-3237
-sex : male

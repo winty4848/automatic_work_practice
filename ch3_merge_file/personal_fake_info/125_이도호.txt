@@ -1,5 +1,0 @@
-name : ¿Ãµµ»£
-age : 27
-e-mail : ttsvzgmas@nate.com
-telephone : 010-9278-7292
-sex : female

@@ -1,5 +1,0 @@
-name : ±è¼­Áø
-age : 38
-e-mail : iayk8svw@kakao.com
-telephone : 010-6621-1366
-sex : female

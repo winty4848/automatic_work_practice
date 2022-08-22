@@ -1,5 +1,0 @@
-name : ¹ÚÀ±ÈÄ
-age : 29
-e-mail : esnh0obf6@google.com
-telephone : 010-0466-7604
-sex : female

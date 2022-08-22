@@ -1,5 +1,0 @@
-name : ±èÁöÁø
-age : 43
-e-mail : aa67k7tnsa@naver.com
-telephone : 010-3495-8834
-sex : female

@@ -1,5 +1,0 @@
-name : ÀÌÇö¿ø
-age : 27
-e-mail : rezxlp2ykc8c@nate.com
-telephone : 010-9296-6292
-sex : female

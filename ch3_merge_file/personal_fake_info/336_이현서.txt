@@ -1,5 +1,0 @@
-name : ÀÌÇö¼­
-age : 34
-e-mail : 1a3xzbdi7n@tistory.com
-telephone : 010-0835-7308
-sex : male

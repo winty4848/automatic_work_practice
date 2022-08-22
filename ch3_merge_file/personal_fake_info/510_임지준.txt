@@ -1,5 +1,0 @@
-name : ÀÓÁöÁØ
-age : 37
-e-mail : qzs7edmlnk8m@kakao.com
-telephone : 010-2715-7927
-sex : female

@@ -1,5 +1,0 @@
-name : À±ÇöÁø
-age : 36
-e-mail : 7bu7mtz@naver.com
-telephone : 010-4805-1448
-sex : female

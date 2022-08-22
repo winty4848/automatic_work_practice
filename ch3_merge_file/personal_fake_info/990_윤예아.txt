@@ -1,5 +1,0 @@
-name : À±¿¹¾Æ
-age : 45
-e-mail : do7aiyfkcan5@naver.com
-telephone : 010-6377-4763
-sex : female

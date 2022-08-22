@@ -1,5 +1,0 @@
-name : ÀÌÁöÀ±
-age : 57
-e-mail : 07zsziy67@naver.com
-telephone : 010-3297-0432
-sex : male

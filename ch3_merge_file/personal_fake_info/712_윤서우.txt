@@ -1,5 +1,0 @@
-name : À±¼­¿ì
-age : 56
-e-mail : mpzi4m0mypga@kakao.com
-telephone : 010-6622-3166
-sex : female

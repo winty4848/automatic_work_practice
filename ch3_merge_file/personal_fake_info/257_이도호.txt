@@ -1,5 +1,0 @@
-name : ¿Ãµµ»£
-age : 20
-e-mail : 3wt347bvp@tistory.com
-telephone : 010-3435-3834
-sex : female

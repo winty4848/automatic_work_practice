@@ -1,5 +1,0 @@
-name : Á¤Áö¼­
-age : 40
-e-mail : pwv5tf@google.com
-telephone : 010-1355-3213
-sex : male

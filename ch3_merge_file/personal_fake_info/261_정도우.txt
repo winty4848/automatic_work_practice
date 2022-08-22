@@ -1,5 +1,0 @@
-name : Á¤µµ¿ì
-age : 52
-e-mail : 7yribt9tx4zg@naver.com
-telephone : 010-3964-2539
-sex : female

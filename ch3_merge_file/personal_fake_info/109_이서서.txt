@@ -1,5 +1,0 @@
-name : ¿Ãº≠º≠
-age : 43
-e-mail : boxcv@tistory.com
-telephone : 010-1641-2916
-sex : male

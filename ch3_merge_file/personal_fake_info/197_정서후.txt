@@ -1,5 +1,0 @@
-name : Á¤¼­ÈÄ
-age : 49
-e-mail : ei1cpwmb@naver.com
-telephone : 010-3243-8532
-sex : male

@@ -1,5 +1,0 @@
-name : юлю╠©Ь
-age : 21
-e-mail : uzh0l@kakao.com
-telephone : 010-1558-0715
-sex : male

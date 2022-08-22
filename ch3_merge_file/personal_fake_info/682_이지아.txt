@@ -1,5 +1,0 @@
-name : ÀÌÁö¾Æ
-age : 44
-e-mail : 7l2fvd@kakao.com
-telephone : 010-7732-6977
-sex : female

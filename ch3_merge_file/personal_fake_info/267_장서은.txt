@@ -1,5 +1,0 @@
-name : ¿Âº≠¿∫
-age : 31
-e-mail : 7lupn@nate.com
-telephone : 010-2097-2720
-sex : male

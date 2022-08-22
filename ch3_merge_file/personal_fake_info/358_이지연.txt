@@ -1,5 +1,0 @@
-name : ÀÌÁö¿¬
-age : 54
-e-mail : 7nkncbv2bq@tistory.com
-telephone : 010-5685-3556
-sex : male

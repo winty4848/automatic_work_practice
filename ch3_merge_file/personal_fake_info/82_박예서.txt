@@ -1,5 +1,0 @@
-name : ¹Ú¿¹¼­
-age : 24
-e-mail : tbhhdd51fn2@naver.com
-telephone : 010-0563-5105
-sex : female

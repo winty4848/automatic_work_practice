@@ -1,5 +1,0 @@
-name : ±Ë¿±æ∆
-age : 41
-e-mail : fns59a@nate.com
-telephone : 010-5155-1651
-sex : female

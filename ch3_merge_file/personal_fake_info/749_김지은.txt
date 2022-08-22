@@ -1,5 +1,0 @@
-name : ±Ë¡ˆ¿∫
-age : 52
-e-mail : ekg8zgiwb@google.com
-telephone : 010-4124-3841
-sex : female

@@ -1,5 +1,0 @@
-name : ¹Ú¼­¿ø
-age : 38
-e-mail : 7hc85w@naver.com
-telephone : 010-0535-9805
-sex : female

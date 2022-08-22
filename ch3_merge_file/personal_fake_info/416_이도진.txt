@@ -1,5 +1,0 @@
-name : ÀÌµµÁø
-age : 55
-e-mail : wvfikekqf53@kakao.com
-telephone : 010-7825-9178
-sex : male

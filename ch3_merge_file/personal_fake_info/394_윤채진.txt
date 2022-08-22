@@ -1,5 +1,0 @@
-name : À±Ã¤Áø
-age : 58
-e-mail : 2c1q0zwiz61n@tistory.com
-telephone : 010-9296-6292
-sex : male

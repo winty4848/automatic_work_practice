@@ -1,5 +1,0 @@
-name : √÷πŒ¿±
-age : 23
-e-mail : 23myc@kakao.com
-telephone : 010-9688-0396
-sex : male

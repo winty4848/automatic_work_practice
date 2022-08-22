@@ -1,5 +1,0 @@
-name : ÃÖÁöÁø
-age : 24
-e-mail : xrxae6@tistory.com
-telephone : 010-1487-6414
-sex : male

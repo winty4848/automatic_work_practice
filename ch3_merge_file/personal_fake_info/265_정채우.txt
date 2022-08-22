@@ -1,5 +1,0 @@
-name : Á¤Ã¤¿ì
-age : 22
-e-mail : 086lcmg9xzm7@naver.com
-telephone : 010-2097-2720
-sex : male

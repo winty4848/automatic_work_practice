@@ -1,5 +1,0 @@
-name : ¹ÚÀ±È£
-age : 24
-e-mail : g2v3clpqy@naver.com
-telephone : 010-0116-2301
-sex : male

@@ -1,5 +1,0 @@
-name : ¿±¡÷¡ÿ
-age : 53
-e-mail : lhekzne@naver.com
-telephone : 010-0402-9804
-sex : female

@@ -1,5 +1,0 @@
-name : Á¶µµ¿ì
-age : 57
-e-mail : 5qcq7@naver.com
-telephone : 010-9094-5390
-sex : male

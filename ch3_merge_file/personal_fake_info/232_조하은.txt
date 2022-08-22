@@ -1,5 +1,0 @@
-name : а╤гою╨
-age : 50
-e-mail : 28z68n@google.com
-telephone : 010-2373-6023
-sex : male

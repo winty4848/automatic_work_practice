@@ -1,5 +1,0 @@
-name : °­À±¼­
-age : 46
-e-mail : n9cbmc@google.com
-telephone : 010-9227-9792
-sex : male

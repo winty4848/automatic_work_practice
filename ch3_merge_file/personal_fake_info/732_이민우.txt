@@ -1,5 +1,0 @@
-name : ÀÌ¹Î¿ì
-age : 37
-e-mail : poz9pdbx@nate.com
-telephone : 010-5284-7852
-sex : female

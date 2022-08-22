@@ -1,5 +1,0 @@
-name : а╤го©Л
-age : 40
-e-mail : h0byp@nate.com
-telephone : 010-9948-4799
-sex : female

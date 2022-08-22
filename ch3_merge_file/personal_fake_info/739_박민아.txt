@@ -1,5 +1,0 @@
-name : ¹Ú¹Î¾Æ
-age : 23
-e-mail : fy17n@tistory.com
-telephone : 010-1558-0715
-sex : female

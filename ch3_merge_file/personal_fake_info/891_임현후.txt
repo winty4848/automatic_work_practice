@@ -1,5 +1,0 @@
-name : ÀÓÇöÈÄ
-age : 57
-e-mail : h36zbzuxtf@google.com
-telephone : 010-7014-9770
-sex : female

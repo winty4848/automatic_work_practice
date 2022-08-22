@@ -1,5 +1,0 @@
-name : °­¿¹¼­
-age : 37
-e-mail : bn4x1xeg@naver.com
-telephone : 010-5306-3853
-sex : male

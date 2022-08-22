@@ -1,5 +1,0 @@
-name : °­¼­Àº
-age : 42
-e-mail : gcyhfon3@kakao.com
-telephone : 010-1816-6018
-sex : male

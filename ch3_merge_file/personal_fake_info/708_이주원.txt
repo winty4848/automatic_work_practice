@@ -1,5 +1,0 @@
-name : юлаж©Ь
-age : 31
-e-mail : 4sr4pprk@nate.com
-telephone : 010-0424-1604
-sex : female

@@ -1,5 +1,0 @@
-name : Àå¿¹¼­
-age : 31
-e-mail : d47gaq7ve@nate.com
-telephone : 010-1033-5710
-sex : male

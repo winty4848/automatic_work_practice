@@ -1,5 +1,0 @@
-name : ÀÌµµÈÄ
-age : 29
-e-mail : 93brcizbldz@naver.com
-telephone : 010-8578-7585
-sex : female

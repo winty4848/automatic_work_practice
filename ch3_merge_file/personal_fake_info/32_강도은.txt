@@ -1,5 +1,0 @@
-name : °­µµÀº
-age : 43
-e-mail : 4bfpw32@google.com
-telephone : 010-5555-3555
-sex : female

@@ -1,5 +1,0 @@
-name : ¿”√§¿±
-age : 40
-e-mail : e6m99ypymrz@tistory.com
-telephone : 010-2904-3629
-sex : male

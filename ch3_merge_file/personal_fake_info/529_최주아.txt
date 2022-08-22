@@ -1,5 +1,0 @@
-name : цжаж╬ф
-age : 50
-e-mail : v5rzpyucz3@naver.com
-telephone : 010-1012-2610
-sex : female

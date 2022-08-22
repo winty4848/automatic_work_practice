@@ -1,5 +1,0 @@
-name : À±¼­Àº
-age : 34
-e-mail : r4z8dt1o@naver.com
-telephone : 010-4124-3841
-sex : male

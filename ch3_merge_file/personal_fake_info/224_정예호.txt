@@ -1,5 +1,0 @@
-name : Á¤¿¹È£
-age : 58
-e-mail : hcgg2@nate.com
-telephone : 010-6145-4461
-sex : male

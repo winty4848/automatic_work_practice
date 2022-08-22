@@ -1,5 +1,0 @@
-name : а╤гохё
-age : 59
-e-mail : 577trfw@kakao.com
-telephone : 010-2904-3629
-sex : male

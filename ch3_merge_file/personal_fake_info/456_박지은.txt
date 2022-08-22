@@ -1,5 +1,0 @@
-name : ¹ÚÁöÀº
-age : 24
-e-mail : uvamgzplqaxi@google.com
-telephone : 010-9888-7698
-sex : female

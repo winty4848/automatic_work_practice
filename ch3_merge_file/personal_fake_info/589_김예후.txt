@@ -1,5 +1,0 @@
-name : ±è¿¹ÈÄ
-age : 25
-e-mail : 54eyii1ths@tistory.com
-telephone : 010-6697-0666
-sex : female

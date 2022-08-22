@@ -1,5 +1,0 @@
-name : Àå¹Î¿ø
-age : 52
-e-mail : zz54bdzvq@kakao.com
-telephone : 010-6784-6667
-sex : male

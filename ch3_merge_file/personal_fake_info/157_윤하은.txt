@@ -1,5 +1,0 @@
-name : ю╠гою╨
-age : 31
-e-mail : 9lb7tmdil9@nate.com
-telephone : 010-9202-4792
-sex : male

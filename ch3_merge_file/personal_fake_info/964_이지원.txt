@@ -1,5 +1,0 @@
-name : ÀÌÁö¿ø
-age : 55
-e-mail : mztkify@nate.com
-telephone : 010-5292-6952
-sex : male

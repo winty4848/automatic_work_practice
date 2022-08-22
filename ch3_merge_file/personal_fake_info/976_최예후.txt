@@ -1,5 +1,0 @@
-name : ÃÖ¿¹ÈÄ
-age : 51
-e-mail : fuzieyyyfei0@tistory.com
-telephone : 010-7746-0077
-sex : female

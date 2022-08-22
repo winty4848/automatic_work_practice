@@ -1,5 +1,0 @@
-name : ¿Ã¿±»£
-age : 32
-e-mail : 4lq8pxr6gr0d@naver.com
-telephone : 010-9026-4490
-sex : female

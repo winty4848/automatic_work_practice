@@ -1,5 +1,0 @@
-name : ¹Ú¿¹¾Æ
-age : 34
-e-mail : atfbx5@tistory.com
-telephone : 010-3292-5732
-sex : female

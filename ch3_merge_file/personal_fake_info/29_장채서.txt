@@ -1,5 +1,0 @@
-name : ¿Â√§º≠
-age : 56
-e-mail : ruy79@tistory.com
-telephone : 010-9331-1993
-sex : male

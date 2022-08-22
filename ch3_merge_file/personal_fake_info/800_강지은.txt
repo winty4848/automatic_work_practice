@@ -1,5 +1,0 @@
-name : °­ÁöÀº
-age : 49
-e-mail : vrqzgt@kakao.com
-telephone : 010-6214-9462
-sex : male

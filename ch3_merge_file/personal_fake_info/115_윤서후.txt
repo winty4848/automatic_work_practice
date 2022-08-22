@@ -1,5 +1,0 @@
-name : À±¼­ÈÄ
-age : 25
-e-mail : a85nuet@tistory.com
-telephone : 010-6744-4167
-sex : male

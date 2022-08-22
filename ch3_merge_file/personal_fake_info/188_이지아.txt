@@ -1,5 +1,0 @@
-name : ÀÌÁö¾Æ
-age : 53
-e-mail : a8qs19cus@tistory.com
-telephone : 010-0368-2603
-sex : male

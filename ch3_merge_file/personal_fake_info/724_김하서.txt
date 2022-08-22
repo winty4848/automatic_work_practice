@@ -1,5 +1,0 @@
-name : ±Ë«œº≠
-age : 42
-e-mail : q08qzml@google.com
-telephone : 010-2904-3629
-sex : female

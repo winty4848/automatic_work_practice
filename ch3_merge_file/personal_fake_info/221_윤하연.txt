@@ -1,5 +1,0 @@
-name : À±ÇÏ¿¬
-age : 25
-e-mail : gqddm@naver.com
-telephone : 010-9926-2899
-sex : female

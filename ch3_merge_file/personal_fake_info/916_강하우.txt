@@ -1,5 +1,0 @@
-name : °­ÇÏ¿ì
-age : 55
-e-mail : la78g5cr@kakao.com
-telephone : 010-5606-4456
-sex : female

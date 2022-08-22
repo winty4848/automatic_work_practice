@@ -1,5 +1,0 @@
-name : Á¶ÇöÁØ
-age : 54
-e-mail : pgr6xlw5x4@kakao.com
-telephone : 010-5685-3556
-sex : female

@@ -1,5 +1,0 @@
-name : Á¶ÇöÁø
-age : 48
-e-mail : ei23n1ql@google.com
-telephone : 010-1355-3213
-sex : male

@@ -1,5 +1,0 @@
-name : ¹Úµµ¿ø
-age : 20
-e-mail : o7mqz6vqw@naver.com
-telephone : 010-7531-1675
-sex : male

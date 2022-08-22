@@ -1,5 +1,0 @@
-name : ÀÌÁö¿ø
-age : 28
-e-mail : 36wrb63@naver.com
-telephone : 010-2433-5824
-sex : male

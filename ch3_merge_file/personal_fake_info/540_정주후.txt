@@ -1,5 +1,0 @@
-name : Á¤ÁÖÈÄ
-age : 26
-e-mail : 0ag45h4@tistory.com
-telephone : 010-7543-4175
-sex : male

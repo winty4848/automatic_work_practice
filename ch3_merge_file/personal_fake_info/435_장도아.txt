@@ -1,5 +1,0 @@
-name : ¿Âµµæ∆
-age : 53
-e-mail : w9gbzk@kakao.com
-telephone : 010-0253-2302
-sex : male

@@ -1,5 +1,0 @@
-name : Á¶ÇöÁØ
-age : 20
-e-mail : bfnhmydzzn@google.com
-telephone : 010-4251-9142
-sex : male

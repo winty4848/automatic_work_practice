@@ -1,5 +1,0 @@
-name : °­À±¿ø
-age : 50
-e-mail : bhugdpc498@google.com
-telephone : 010-8927-9489
-sex : male

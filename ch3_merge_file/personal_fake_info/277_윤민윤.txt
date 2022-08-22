@@ -1,5 +1,0 @@
-name : ¿±πŒ¿±
-age : 57
-e-mail : ohsyeb@tistory.com
-telephone : 010-3502-0335
-sex : male

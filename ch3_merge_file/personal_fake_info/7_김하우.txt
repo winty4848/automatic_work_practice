@@ -1,5 +1,0 @@
-name : ±èÇÏ¿ì
-age : 25
-e-mail : w9lchcd9kbn@kakao.com
-telephone : 010-1003-4810
-sex : female

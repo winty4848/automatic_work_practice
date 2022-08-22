@@ -1,5 +1,0 @@
-name : юсаЖю╨
-age : 39
-e-mail : 7eydrlqo@google.com
-telephone : 010-6622-3166
-sex : female

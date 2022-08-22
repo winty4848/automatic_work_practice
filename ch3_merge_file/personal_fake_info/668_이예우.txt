@@ -1,5 +1,0 @@
-name : ÀÌ¿¹¿ì
-age : 57
-e-mail : rseqwcz5@tistory.com
-telephone : 010-5306-3853
-sex : female

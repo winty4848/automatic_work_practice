@@ -1,5 +1,0 @@
-name : ¿ÃπŒ¿±
-age : 24
-e-mail : kb5g85gzy@google.com
-telephone : 010-9448-0094
-sex : female

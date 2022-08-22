@@ -1,5 +1,0 @@
-name : ÃÖÇöÁø
-age : 20
-e-mail : tr9ckv8wf@kakao.com
-telephone : 010-7161-9571
-sex : female

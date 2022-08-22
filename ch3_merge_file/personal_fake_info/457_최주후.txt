@@ -1,5 +1,0 @@
-name : ÃÖÁÖÈÄ
-age : 25
-e-mail : z36u0yx414c@nate.com
-telephone : 010-9888-7698
-sex : male

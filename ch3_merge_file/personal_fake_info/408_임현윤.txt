@@ -1,5 +1,0 @@
-name : ÀÓÇöÀ±
-age : 48
-e-mail : ocu4oid@nate.com
-telephone : 010-5399-6053
-sex : male

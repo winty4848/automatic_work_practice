@@ -1,5 +1,0 @@
-name : ¹Úµµ¿ø
-age : 23
-e-mail : pg5f2odqm@nate.com
-telephone : 010-7218-2272
-sex : male

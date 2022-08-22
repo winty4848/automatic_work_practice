@@ -1,5 +1,0 @@
-name : Á¤Áö¼­
-age : 54
-e-mail : l39td@tistory.com
-telephone : 010-5855-8858
-sex : female

@@ -1,5 +1,0 @@
-name : ¿Â«œº≠
-age : 32
-e-mail : aarkc@tistory.com
-telephone : 010-7325-4473
-sex : male

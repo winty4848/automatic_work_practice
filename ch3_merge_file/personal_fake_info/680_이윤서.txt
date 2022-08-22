@@ -1,5 +1,0 @@
-name : ¿Ã¿±º≠
-age : 57
-e-mail : cn1g7d8i@nate.com
-telephone : 010-7732-6977
-sex : male

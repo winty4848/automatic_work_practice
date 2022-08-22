@@ -1,5 +1,0 @@
-name : ¿Ã¿±»£
-age : 48
-e-mail : kqw3b@nate.com
-telephone : 010-2433-5824
-sex : female

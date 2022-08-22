@@ -1,5 +1,0 @@
-name : À±Áö¿ø
-age : 44
-e-mail : 5ltr13zatm@nate.com
-telephone : 010-7213-6372
-sex : female

@@ -1,5 +1,0 @@
-name : Á¶¿¹¾Æ
-age : 28
-e-mail : 2c5cee7eu3@google.com
-telephone : 010-9094-5390
-sex : male

@@ -1,5 +1,0 @@
-name : Á¤Çö¿ì
-age : 38
-e-mail : zktzy@naver.com
-telephone : 010-3176-8231
-sex : male

@@ -1,5 +1,0 @@
-name : ю╠аж©Ь
-age : 52
-e-mail : czx24phaarzw@google.com
-telephone : 010-8574-0885
-sex : male

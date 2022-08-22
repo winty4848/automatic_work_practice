@@ -1,5 +1,0 @@
-name : ¿”√§»£
-age : 22
-e-mail : g2fdge2wnzy9@naver.com
-telephone : 010-9888-7698
-sex : female

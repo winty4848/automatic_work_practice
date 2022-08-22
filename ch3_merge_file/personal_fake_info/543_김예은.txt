@@ -1,5 +1,0 @@
-name : ±è¿¹Àº
-age : 47
-e-mail : pg5wmm4@nate.com
-telephone : 010-7348-9573
-sex : male

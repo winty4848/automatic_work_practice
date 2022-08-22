@@ -1,5 +1,0 @@
-name : À±ÁöÈ£
-age : 56
-e-mail : testnmtg5u@tistory.com
-telephone : 010-0177-3201
-sex : female

@@ -1,5 +1,0 @@
-name : Á¶Çö¿ø
-age : 59
-e-mail : 4tagy81@google.com
-telephone : 010-2373-6023
-sex : male

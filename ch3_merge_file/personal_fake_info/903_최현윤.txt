@@ -1,5 +1,0 @@
-name : ÃÖÇöÀ±
-age : 48
-e-mail : pfkzbzs9i4a@naver.com
-telephone : 010-3316-8133
-sex : female

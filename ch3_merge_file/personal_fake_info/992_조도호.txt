@@ -1,5 +1,0 @@
-name : Á¶µµÈ£
-age : 40
-e-mail : qduh5btt4k@nate.com
-telephone : 010-6377-4763
-sex : female

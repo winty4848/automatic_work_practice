@@ -1,5 +1,0 @@
-name : ±Ë¡÷øÏ
-age : 32
-e-mail : 89yhci91@naver.com
-telephone : 010-9949-5199
-sex : male

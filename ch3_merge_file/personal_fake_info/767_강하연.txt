@@ -1,5 +1,0 @@
-name : °­ÇÏ¿¬
-age : 49
-e-mail : zmog7p@nate.com
-telephone : 010-8934-0089
-sex : female

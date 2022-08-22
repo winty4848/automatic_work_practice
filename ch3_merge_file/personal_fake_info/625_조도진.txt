@@ -1,5 +1,0 @@
-name : Á¶µµÁø
-age : 49
-e-mail : mys2uv4kqk@nate.com
-telephone : 010-4805-1448
-sex : male

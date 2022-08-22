@@ -1,5 +1,0 @@
-name : ±èÁöÁø
-age : 29
-e-mail : zrcil@google.com
-telephone : 010-9769-9497
-sex : male

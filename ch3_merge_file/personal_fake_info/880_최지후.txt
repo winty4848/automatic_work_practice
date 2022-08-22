@@ -1,5 +1,0 @@
-name : ÃÖÁöÈÄ
-age : 37
-e-mail : xet1il4tg@kakao.com
-telephone : 010-4578-6645
-sex : male

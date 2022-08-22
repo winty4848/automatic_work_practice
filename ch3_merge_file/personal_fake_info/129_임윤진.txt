@@ -1,5 +1,0 @@
-name : юсю╠аЬ
-age : 45
-e-mail : n9og25e6emi7@naver.com
-telephone : 010-5475-8854
-sex : male

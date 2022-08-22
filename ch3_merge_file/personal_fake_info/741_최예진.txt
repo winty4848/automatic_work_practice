@@ -1,5 +1,0 @@
-name : ÃÖ¿¹Áø
-age : 21
-e-mail : ud73b@google.com
-telephone : 010-1558-0715
-sex : female

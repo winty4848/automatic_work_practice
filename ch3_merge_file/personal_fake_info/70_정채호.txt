@@ -1,5 +1,0 @@
-name : Á¤Ã¤È£
-age : 57
-e-mail : mppzl2cp39mg@kakao.com
-telephone : 010-3292-5732
-sex : male

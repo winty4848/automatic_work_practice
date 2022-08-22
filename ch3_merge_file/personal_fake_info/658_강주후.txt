@@ -1,5 +1,0 @@
-name : °­ÁÖÈÄ
-age : 34
-e-mail : rf3m16@naver.com
-telephone : 010-9104-2291
-sex : male

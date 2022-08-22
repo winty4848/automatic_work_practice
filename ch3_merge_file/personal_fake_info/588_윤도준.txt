@@ -1,5 +1,0 @@
-name : ¿±µµ¡ÿ
-age : 41
-e-mail : hf5z1m3r@naver.com
-telephone : 010-6697-0666
-sex : male

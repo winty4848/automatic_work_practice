@@ -1,5 +1,0 @@
-name : ÀÌÁö¿ì
-age : 54
-e-mail : bvewlve3@naver.com
-telephone : 010-1738-5117
-sex : male

@@ -1,5 +1,0 @@
-name : ±Ë¿±¿±
-age : 37
-e-mail : sbs4fd@kakao.com
-telephone : 010-9202-4792
-sex : male

@@ -1,5 +1,0 @@
-name : ±èÇö¿ì
-age : 37
-e-mail : 5001c520tgg@kakao.com
-telephone : 010-7887-1978
-sex : female

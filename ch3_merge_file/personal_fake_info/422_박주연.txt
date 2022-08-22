@@ -1,5 +1,0 @@
-name : ╧заж©╛
-age : 56
-e-mail : n6bpvmq6@nate.com
-telephone : 010-7825-9178
-sex : male

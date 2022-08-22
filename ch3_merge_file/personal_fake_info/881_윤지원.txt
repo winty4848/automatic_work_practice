@@ -1,5 +1,0 @@
-name : À±Áö¿ø
-age : 60
-e-mail : n4m33kop5du@tistory.com
-telephone : 010-4578-6645
-sex : male

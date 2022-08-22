@@ -1,5 +1,0 @@
-name : ¿Â√§æ∆
-age : 58
-e-mail : xbzb6@nate.com
-telephone : 010-3495-8834
-sex : male

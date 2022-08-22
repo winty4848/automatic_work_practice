@@ -1,5 +1,0 @@
-name : ÀÌ¿¹¿ø
-age : 24
-e-mail : 347foyfgxtgd@kakao.com
-telephone : 010-5933-1959
-sex : female

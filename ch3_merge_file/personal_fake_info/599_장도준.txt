@@ -1,5 +1,0 @@
-name : ¿Âµµ¡ÿ
-age : 53
-e-mail : q796hm8ldfb@google.com
-telephone : 010-3176-8231
-sex : female

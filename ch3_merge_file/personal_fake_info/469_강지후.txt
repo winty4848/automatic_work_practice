@@ -1,5 +1,0 @@
-name : °­ÁöÈÄ
-age : 53
-e-mail : 1amman@nate.com
-telephone : 010-1317-0113
-sex : female

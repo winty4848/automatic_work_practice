@@ -1,5 +1,0 @@
-name : ¿Ã«œ¡ÿ
-age : 20
-e-mail : 49qfr2umv@naver.com
-telephone : 010-7825-9178
-sex : female

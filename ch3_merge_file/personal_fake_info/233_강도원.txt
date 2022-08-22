@@ -1,5 +1,0 @@
-name : °­µµ¿ø
-age : 36
-e-mail : f3odr@google.com
-telephone : 010-2373-6023
-sex : male

@@ -1,5 +1,0 @@
-name : ¿Ãº≠æ∆
-age : 34
-e-mail : 2nezohdr1@kakao.com
-telephone : 010-0535-9805
-sex : female

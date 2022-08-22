@@ -1,5 +1,0 @@
-name : ¹Ú¿¹¾Æ
-age : 57
-e-mail : rh702nzck0z@google.com
-telephone : 010-8347-5083
-sex : male

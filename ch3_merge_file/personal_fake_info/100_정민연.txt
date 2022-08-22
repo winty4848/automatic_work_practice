@@ -1,5 +1,0 @@
-name : Á¤¹Î¿¬
-age : 49
-e-mail : zk25b379@tistory.com
-telephone : 010-9227-9792
-sex : female

@@ -1,5 +1,0 @@
-name : ÀåÁöÀ±
-age : 59
-e-mail : r6zpvi6km@kakao.com
-telephone : 010-9702-1897
-sex : male

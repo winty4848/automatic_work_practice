@@ -1,5 +1,0 @@
-name : Á¶ÁöÀ±
-age : 51
-e-mail : pac5b@naver.com
-telephone : 010-2433-5824
-sex : male

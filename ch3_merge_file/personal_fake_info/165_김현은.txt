@@ -1,5 +1,0 @@
-name : ±èÇöÀº
-age : 39
-e-mail : zkpeiv44@naver.com
-telephone : 010-5488-6354
-sex : male

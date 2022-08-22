@@ -1,5 +1,0 @@
-name : ÃÖÇö¼­
-age : 39
-e-mail : gdcz8@kakao.com
-telephone : 010-8336-1983
-sex : female

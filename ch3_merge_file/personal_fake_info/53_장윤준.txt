@@ -1,5 +1,0 @@
-name : ¿Â¿±¡ÿ
-age : 24
-e-mail : hwviyluri7@kakao.com
-telephone : 010-5236-6052
-sex : male

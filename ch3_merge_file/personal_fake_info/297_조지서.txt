@@ -1,5 +1,0 @@
-name : Á¶Áö¼­
-age : 48
-e-mail : 4o2a8m@nate.com
-telephone : 010-9347-3793
-sex : female

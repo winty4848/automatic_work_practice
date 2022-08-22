@@ -1,5 +1,0 @@
-name : Á¤¿¹À±
-age : 30
-e-mail : 5qymy@tistory.com
-telephone : 010-2885-0728
-sex : male

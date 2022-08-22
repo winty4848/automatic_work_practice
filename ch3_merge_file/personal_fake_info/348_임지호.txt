@@ -1,5 +1,0 @@
-name : ÀÓÁöÈ£
-age : 42
-e-mail : knw6fo@naver.com
-telephone : 010-3297-0432
-sex : male

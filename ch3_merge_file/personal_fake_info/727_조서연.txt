@@ -1,5 +1,0 @@
-name : Á¶¼­¿¬
-age : 27
-e-mail : txgdy@google.com
-telephone : 010-2904-3629
-sex : male

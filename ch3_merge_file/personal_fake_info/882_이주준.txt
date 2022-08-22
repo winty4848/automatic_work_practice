@@ -1,5 +1,0 @@
-name : ¿Ã¡÷¡ÿ
-age : 34
-e-mail : kq7apyabd5@google.com
-telephone : 010-4578-6645
-sex : female

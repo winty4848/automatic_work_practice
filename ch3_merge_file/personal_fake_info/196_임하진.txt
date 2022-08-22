@@ -1,5 +1,0 @@
-name : юсгоаЬ
-age : 48
-e-mail : s8tgl11a14e3@tistory.com
-telephone : 010-9704-7697
-sex : female

@@ -1,5 +1,0 @@
-name : ¿±«œ¡ÿ
-age : 54
-e-mail : fqpig@tistory.com
-telephone : 010-3378-5633
-sex : female

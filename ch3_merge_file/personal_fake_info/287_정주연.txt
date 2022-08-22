@@ -1,5 +1,0 @@
-name : ¡§¡÷ø¨
-age : 50
-e-mail : 2rf8upzrd@nate.com
-telephone : 010-4591-3345
-sex : female

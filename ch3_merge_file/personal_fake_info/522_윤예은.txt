@@ -1,5 +1,0 @@
-name : À±¿¹Àº
-age : 35
-e-mail : qzrf89@tistory.com
-telephone : 010-1048-.910
-sex : female

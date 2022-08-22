@@ -1,5 +1,0 @@
-name : Àå¿¹Áø
-age : 44
-e-mail : dz5hbz@tistory.com
-telephone : 010-5488-6354
-sex : male

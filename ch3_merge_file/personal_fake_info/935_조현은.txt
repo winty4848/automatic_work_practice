@@ -1,5 +1,0 @@
-name : Á¶ÇöÀº
-age : 28
-e-mail : 6sbxkb@google.com
-telephone : 010-0487-0704
-sex : male

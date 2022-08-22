@@ -1,5 +1,0 @@
-name : ÀÓÇöÁø
-age : 45
-e-mail : nb2ktfa8hb@naver.com
-telephone : 010-7887-1978
-sex : female

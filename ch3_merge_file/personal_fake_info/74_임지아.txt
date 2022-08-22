@@ -1,5 +1,0 @@
-name : юсаЖ╬ф
-age : 37
-e-mail : ez3yz@naver.com
-telephone : 010-8574-0885
-sex : female

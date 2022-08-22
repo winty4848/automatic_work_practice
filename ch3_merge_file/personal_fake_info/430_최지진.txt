@@ -1,5 +1,0 @@
-name : ÃÖÁöÁø
-age : 59
-e-mail : p60f7ts9wkzr@kakao.com
-telephone : 010-0253-2302
-sex : male

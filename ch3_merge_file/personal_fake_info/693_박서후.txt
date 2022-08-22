@@ -1,5 +1,0 @@
-name : ¹Ú¼­ÈÄ
-age : 53
-e-mail : o9zymnnfb30b@naver.com
-telephone : 010-5395-2853
-sex : female

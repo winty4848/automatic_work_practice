@@ -1,5 +1,0 @@
-name : ¿Ãº≠æ∆
-age : 45
-e-mail : 16uni6vof4@kakao.com
-telephone : 010-4505-3545
-sex : male

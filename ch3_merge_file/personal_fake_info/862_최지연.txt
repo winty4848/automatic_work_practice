@@ -1,5 +1,0 @@
-name : ÃÖÁö¿¬
-age : 51
-e-mail : dzh3f@tistory.com
-telephone : 010-2142-3521
-sex : male

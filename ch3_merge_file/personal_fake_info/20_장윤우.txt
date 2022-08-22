@@ -1,5 +1,0 @@
-name : ¿Â¿±øÏ
-age : 36
-e-mail : 1hts9bkon8vp@google.com
-telephone : 010-4453-5744
-sex : male

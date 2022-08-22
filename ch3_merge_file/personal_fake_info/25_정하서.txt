@@ -1,5 +1,0 @@
-name : Á¤ÇÏ¼­
-age : 54
-e-mail : 6zg5iiei@google.com
-telephone : 010-3122-0431
-sex : male

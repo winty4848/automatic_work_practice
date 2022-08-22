@@ -1,5 +1,0 @@
-name : ÃÖ¼­¿ø
-age : 21
-e-mail : ig53bbop@naver.com
-telephone : 010-2433-5824
-sex : male

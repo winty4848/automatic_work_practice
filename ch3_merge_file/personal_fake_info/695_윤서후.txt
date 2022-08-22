@@ -1,5 +1,0 @@
-name : À±¼­ÈÄ
-age : 54
-e-mail : ipzwvamzcuf@tistory.com
-telephone : 010-5395-2853
-sex : female

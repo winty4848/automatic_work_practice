@@ -1,5 +1,0 @@
-name : ¿Âº≠¿±
-age : 25
-e-mail : r2r4mzgsyhg5@kakao.com
-telephone : 010-2673-9226
-sex : female

@@ -1,5 +1,0 @@
-name : À±ÁöÁø
-age : 23
-e-mail : a3rpw8gi3zzn@nate.com
-telephone : 010-.579-13.5
-sex : male

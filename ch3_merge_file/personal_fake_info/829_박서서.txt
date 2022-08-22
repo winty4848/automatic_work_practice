@@ -1,5 +1,0 @@
-name : ¹Ú¼­¼­
-age : 56
-e-mail : hlvmrhdg@naver.com
-telephone : 010-1033-5710
-sex : female

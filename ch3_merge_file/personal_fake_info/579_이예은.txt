@@ -1,5 +1,0 @@
-name : ÀÌ¿¹Àº
-age : 27
-e-mail : w1y9l05w@tistory.com
-telephone : 010-4505-3545
-sex : female

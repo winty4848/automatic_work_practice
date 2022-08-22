@@ -1,5 +1,0 @@
-name : °­¿¹Àº
-age : 27
-e-mail : 2uaag@google.com
-telephone : 010-4114-1041
-sex : male

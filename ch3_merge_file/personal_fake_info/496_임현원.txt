@@ -1,5 +1,0 @@
-name : ÀÓÇö¿ø
-age : 26
-e-mail : wa8o6v02il@tistory.com
-telephone : 010-9948-4799
-sex : male

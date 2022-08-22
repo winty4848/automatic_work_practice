@@ -1,5 +1,0 @@
-name : ±èÁÖÈÄ
-age : 34
-e-mail : fdwl2f79@naver.com
-telephone : 010-0835-7308
-sex : female

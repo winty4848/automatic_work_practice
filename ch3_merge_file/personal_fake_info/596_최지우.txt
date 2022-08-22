@@ -1,5 +1,0 @@
-name : ÃÖÁö¿ì
-age : 49
-e-mail : 41lg75ovtyaw@tistory.com
-telephone : 010-3176-8231
-sex : female

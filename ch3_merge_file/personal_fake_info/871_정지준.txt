@@ -1,5 +1,0 @@
-name : СЄСіСи
-age : 34
-e-mail : 0qptbbvqcc53@tistory.com
-telephone : 010-8347-5083
-sex : female

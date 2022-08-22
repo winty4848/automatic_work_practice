@@ -1,5 +1,0 @@
-name : Á¶Ã¤Áø
-age : 59
-e-mail : 8efhyg49v@google.com
-telephone : 010-1355-3213
-sex : male

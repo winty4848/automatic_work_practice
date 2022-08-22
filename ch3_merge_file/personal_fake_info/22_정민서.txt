@@ -1,5 +1,0 @@
-name : Á¤¹Î¼­
-age : 37
-e-mail : vvd8x4x7kq5@naver.com
-telephone : 010-0689-7306
-sex : male

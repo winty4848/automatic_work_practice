@@ -1,5 +1,0 @@
-name : Àå¹Î¿ì
-age : 44
-e-mail : 7w9col484koh@naver.com
-telephone : 010-6377-4763
-sex : female

@@ -1,5 +1,0 @@
-name : ±èÇÏÈÄ
-age : 34
-e-mail : ra0ysd@naver.com
-telephone : 010-4805-1448
-sex : male

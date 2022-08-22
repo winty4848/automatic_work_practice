@@ -1,5 +1,0 @@
-name : À±ÁÖÈÄ
-age : 22
-e-mail : e1haro@google.com
-telephone : 010-1012-2610
-sex : female

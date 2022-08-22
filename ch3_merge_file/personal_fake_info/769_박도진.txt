@@ -1,5 +1,0 @@
-name : ¹ÚµµÁø
-age : 52
-e-mail : 7ufb83euupo@naver.com
-telephone : 010-8934-0089
-sex : female

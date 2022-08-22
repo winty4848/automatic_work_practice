@@ -1,5 +1,0 @@
-name : À±¼­È£
-age : 36
-e-mail : e0x94qu6@naver.com
-telephone : 010-5808-8758
-sex : male

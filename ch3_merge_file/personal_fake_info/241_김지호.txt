@@ -1,5 +1,0 @@
-name : ±èÁöÈ£
-age : 45
-e-mail : f9rz3d7pfsh@kakao.com
-telephone : 010-4792-9147
-sex : female

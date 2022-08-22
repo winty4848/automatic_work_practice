@@ -1,5 +1,0 @@
-name : °­Áö¼­
-age : 21
-e-mail : imwmv@naver.com
-telephone : 010-.579-13.5
-sex : female

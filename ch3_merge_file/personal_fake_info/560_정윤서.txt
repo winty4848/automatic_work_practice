@@ -1,5 +1,0 @@
-name : Á¤À±¼­
-age : 24
-e-mail : g0oi24cs@nate.com
-telephone : 010-2427-0424
-sex : female

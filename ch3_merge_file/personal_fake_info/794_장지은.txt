@@ -1,5 +1,0 @@
-name : ÀåÁöÀº
-age : 59
-e-mail : 8pq81@tistory.com
-telephone : 010-.579-13.5
-sex : female

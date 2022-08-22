@@ -1,5 +1,0 @@
-name : юсаЖю╨
-age : 33
-e-mail : 7inoaxtpcps@google.com
-telephone : 010-1704-7917
-sex : female
