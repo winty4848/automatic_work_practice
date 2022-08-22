@@ -1,0 +1,5 @@
+name : ¹ÚÃ¤¿ì
+age : 27
+e-mail : zfqkp@kakao.com
+telephone : 010-8336-1983
+sex : female

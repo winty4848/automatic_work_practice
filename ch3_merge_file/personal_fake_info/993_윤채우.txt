@@ -1,0 +1,5 @@
+name : À±Ã¤¿ì
+age : 44
+e-mail : 7nvqawtm8@kakao.com
+telephone : 010-6377-4763
+sex : female

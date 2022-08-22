@@ -1,0 +1,5 @@
+name : Á¤¹Î¿ì
+age : 46
+e-mail : fmickr@naver.com
+telephone : 010-1012-2610
+sex : male

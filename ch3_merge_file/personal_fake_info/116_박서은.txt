@@ -1,0 +1,5 @@
+name : ¹Ú¼­Àº
+age : 40
+e-mail : d3eszwoowt7@google.com
+telephone : 010-3047-5730
+sex : male

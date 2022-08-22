@@ -1,0 +1,5 @@
+name : юс╧ню╨
+age : 23
+e-mail : qyamghz7l9s@google.com
+telephone : 010-5855-8858
+sex : female

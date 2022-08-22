@@ -1,0 +1,5 @@
+name : ÃÖÁöÁØ
+age : 43
+e-mail : 4g9526w@kakao.com
+telephone : 010-6859-4168
+sex : male

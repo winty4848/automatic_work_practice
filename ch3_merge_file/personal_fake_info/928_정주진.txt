@@ -1,0 +1,5 @@
+name : а╓ажаЬ
+age : 27
+e-mail : n7d2zz@nate.com
+telephone : 010-5808-8758
+sex : female

@@ -1,0 +1,5 @@
+name : Àåµµ¿ø
+age : 22
+e-mail : tpwx1@google.com
+telephone : 010-4027-4540
+sex : male

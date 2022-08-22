@@ -1,0 +1,5 @@
+name : °­¿¹È£
+age : 27
+e-mail : 56qvro@google.com
+telephone : 010-5933-1959
+sex : male

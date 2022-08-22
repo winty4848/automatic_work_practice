@@ -1,0 +1,5 @@
+name : ¹Úµµ¿¬
+age : 29
+e-mail : s4tzfoa4s8w@nate.com
+telephone : 010-4591-3345
+sex : female

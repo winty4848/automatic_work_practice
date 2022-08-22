@@ -1,0 +1,5 @@
+name : �嵵ȣ
+age : 60
+e-mail : m8twzz2kv@nate.com
+telephone : 010-2673-9226
+sex : male

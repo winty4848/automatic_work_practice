@@ -1,0 +1,5 @@
+name : ÀÌÇöÈÄ
+age : 29
+e-mail : kdxwl5cvi@kakao.com
+telephone : 010-4252-6042
+sex : female

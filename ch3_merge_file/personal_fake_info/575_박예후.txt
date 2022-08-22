@@ -1,0 +1,5 @@
+name : ¹Ú¿¹ÈÄ
+age : 56
+e-mail : bunbmlfrid@tistory.com
+telephone : 010-4505-3545
+sex : female

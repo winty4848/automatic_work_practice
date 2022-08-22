@@ -1,0 +1,5 @@
+name : ÀÌÃ¤ÈÄ
+age : 55
+e-mail : ys5lsb@naver.com
+telephone : 010-7044-8870
+sex : male

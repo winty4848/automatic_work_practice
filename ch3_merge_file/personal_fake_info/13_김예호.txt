@@ -1,0 +1,5 @@
+name : �迹ȣ
+age : 56
+e-mail : rd0ztwkvyzfe@naver.com
+telephone : 010-2065-2620
+sex : female

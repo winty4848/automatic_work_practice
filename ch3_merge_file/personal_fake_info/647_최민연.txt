@@ -1,0 +1,5 @@
+name : ÃÖ¹Î¿¬
+age : 50
+e-mail : 1zvum@google.com
+telephone : 010-6668-9166
+sex : female

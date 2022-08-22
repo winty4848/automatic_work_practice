@@ -1,0 +1,5 @@
+name : Á¶¼­¿¬
+age : 24
+e-mail : q6zd5m8@naver.com
+telephone : 010-6622-3166
+sex : male

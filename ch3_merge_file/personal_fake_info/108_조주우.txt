@@ -1,0 +1,5 @@
+name : а╤аж©Л
+age : 20
+e-mail : z72cqe2@nate.com
+telephone : 010-1641-2916
+sex : male

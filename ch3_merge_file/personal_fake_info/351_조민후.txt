@@ -1,0 +1,5 @@
+name : Á¶¹ÎÈÄ
+age : 25
+e-mail : gzw398udl@nate.com
+telephone : 010-3297-0432
+sex : female

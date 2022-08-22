@@ -1,0 +1,5 @@
+name : ╠Хаж©Ь
+age : 27
+e-mail : 30nv8l@tistory.com
+telephone : 010-7531-1675
+sex : male

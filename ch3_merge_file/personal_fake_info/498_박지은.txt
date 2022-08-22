@@ -1,0 +1,5 @@
+name : ¹ÚÁöÀº
+age : 20
+e-mail : 842h8f@kakao.com
+telephone : 010-6203-6362
+sex : male

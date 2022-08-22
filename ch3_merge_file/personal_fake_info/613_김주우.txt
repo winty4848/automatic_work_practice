@@ -1,0 +1,5 @@
+name : ±èÁÖ¿ì
+age : 32
+e-mail : dns2zt5c7o@nate.com
+telephone : 010-5626-1356
+sex : male

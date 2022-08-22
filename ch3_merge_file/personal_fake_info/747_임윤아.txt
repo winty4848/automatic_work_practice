@@ -1,0 +1,5 @@
+name : юсю╠╬ф
+age : 35
+e-mail : cnick@google.com
+telephone : 010-7858-2278
+sex : male

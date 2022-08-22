@@ -1,0 +1,5 @@
+name : Á¶Ã¤¼­
+age : 34
+e-mail : bayrz@google.com
+telephone : 010-3297-0432
+sex : male

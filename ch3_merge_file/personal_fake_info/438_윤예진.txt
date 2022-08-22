@@ -1,0 +1,5 @@
+name : À±¿¹Áø
+age : 26
+e-mail : 8dan4b@google.com
+telephone : 010-6482-3864
+sex : female

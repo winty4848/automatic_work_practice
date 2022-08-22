@@ -1,0 +1,5 @@
+name : ÀåÁöÀº
+age : 23
+e-mail : fv8z3sq5@naver.com
+telephone : 010-2598-6325
+sex : female

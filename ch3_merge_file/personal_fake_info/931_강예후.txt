@@ -1,0 +1,5 @@
+name : °­¿¹ÈÄ
+age : 50
+e-mail : lm1ag@tistory.com
+telephone : 010-4251-9142
+sex : male

@@ -1,0 +1,5 @@
+name : À±ÁöÁØ
+age : 30
+e-mail : aff1sz@kakao.com
+telephone : 010-3958-1639
+sex : female

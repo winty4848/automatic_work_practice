@@ -1,0 +1,5 @@
+name : ฑ่ว๖มุ
+age : 30
+e-mail : 0f9iyhbmmsz@nate.com
+telephone : 010-5855-8858
+sex : female

@@ -1,0 +1,5 @@
+name : ÀÌÇöÁø
+age : 42
+e-mail : w5oiwz@nate.com
+telephone : 010-2722-8527
+sex : male

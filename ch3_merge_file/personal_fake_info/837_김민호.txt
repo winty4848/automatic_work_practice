@@ -1,0 +1,5 @@
+name : ±ËπŒ»£
+age : 42
+e-mail : c6126dzgmh7@google.com
+telephone : 010-2725-6727
+sex : male

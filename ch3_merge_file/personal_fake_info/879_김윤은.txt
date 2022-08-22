@@ -1,0 +1,5 @@
+name : ±Ë¿±¿∫
+age : 56
+e-mail : 6r9c3dts@nate.com
+telephone : 010-4578-6645
+sex : female

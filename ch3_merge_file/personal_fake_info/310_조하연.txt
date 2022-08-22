@@ -1,0 +1,5 @@
+name : Á¶ÇÏ¿¬
+age : 30
+e-mail : znzifccopy6@google.com
+telephone : 010-5985-1059
+sex : female

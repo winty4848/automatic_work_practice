@@ -1,0 +1,5 @@
+name : À±ÁöÀº
+age : 30
+e-mail : xkelc1@tistory.com
+telephone : 010-5606-4456
+sex : female

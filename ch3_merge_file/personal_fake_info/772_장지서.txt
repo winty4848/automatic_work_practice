@@ -1,0 +1,5 @@
+name : ÀåÁö¼­
+age : 25
+e-mail : b6cpzshn@kakao.com
+telephone : 010-5155-1651
+sex : female

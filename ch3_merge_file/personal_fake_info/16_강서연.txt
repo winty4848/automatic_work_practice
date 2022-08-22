@@ -1,0 +1,5 @@
+name : °­¼­¿¬
+age : 25
+e-mail : 4g8sw@nate.com
+telephone : 010-8253-4182
+sex : female

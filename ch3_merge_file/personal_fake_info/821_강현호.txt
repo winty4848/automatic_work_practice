@@ -1,0 +1,5 @@
+name : °­ÇöÈ£
+age : 23
+e-mail : rubok6isot1@google.com
+telephone : 010-1487-6414
+sex : male

@@ -1,0 +1,5 @@
+name : Á¶µµÈÄ
+age : 21
+e-mail : hxgbk@kakao.com
+telephone : 010-1012-2610
+sex : female

@@ -1,0 +1,5 @@
+name : ±è¼­¾Æ
+age : 29
+e-mail : 6owz8k@google.com
+telephone : 010-6203-6362
+sex : female

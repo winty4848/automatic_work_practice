@@ -1,0 +1,5 @@
+name : ¿”º≠ø¨
+age : 36
+e-mail : m742a@naver.com
+telephone : 010-2426-1024
+sex : male

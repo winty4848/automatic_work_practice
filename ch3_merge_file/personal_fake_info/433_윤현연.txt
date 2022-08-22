@@ -1,0 +1,5 @@
+name : À±Çö¿¬
+age : 51
+e-mail : d05bi691@kakao.com
+telephone : 010-0253-2302
+sex : male

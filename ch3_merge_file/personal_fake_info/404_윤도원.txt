@@ -1,0 +1,5 @@
+name : À±µµ¿ø
+age : 55
+e-mail : x6g9rwx8o@naver.com
+telephone : 010-9184-4491
+sex : male

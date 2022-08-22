@@ -1,0 +1,5 @@
+name : ÀÌ¹Î¾Æ
+age : 46
+e-mail : wz8t6@nate.com
+telephone : 010-3047-5730
+sex : female

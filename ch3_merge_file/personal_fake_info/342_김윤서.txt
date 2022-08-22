@@ -1,0 +1,5 @@
+name : ±Ë¿±º≠
+age : 28
+e-mail : pr6ko@nate.com
+telephone : 010-7044-8870
+sex : male

@@ -1,0 +1,5 @@
+name : Á¶¿¹ÈÄ
+age : 40
+e-mail : ztbrd1@naver.com
+telephone : 010-5555-3555
+sex : female

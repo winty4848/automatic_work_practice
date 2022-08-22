@@ -1,0 +1,5 @@
+name : ÀÌÁöÈ£
+age : 41
+e-mail : w5dy98f@nate.com
+telephone : 010-2673-9226
+sex : female

@@ -1,0 +1,5 @@
+name : ±è¿¹Áø
+age : 42
+e-mail : dp1iwq@kakao.com
+telephone : 010-.579-13.5
+sex : male

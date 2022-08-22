@@ -1,0 +1,5 @@
+name : ±Ë¿±¿∫
+age : 34
+e-mail : 9ahvd42b@google.com
+telephone : 010-4027-4540
+sex : male

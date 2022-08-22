@@ -1,0 +1,5 @@
+name : ÃÖÁöÈ£
+age : 54
+e-mail : rg6k4ec@naver.com
+telephone : 010-6668-9166
+sex : male

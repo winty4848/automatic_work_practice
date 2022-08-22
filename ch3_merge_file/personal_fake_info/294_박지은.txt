@@ -1,0 +1,5 @@
+name : ¹ÚÁöÀº
+age : 22
+e-mail : dz39c@nate.com
+telephone : 010-8347-6583
+sex : female

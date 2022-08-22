@@ -1,0 +1,5 @@
+name : ±è¹Î¿ø
+age : 23
+e-mail : f3x6bseh@google.com
+telephone : 010-4153-2541
+sex : male

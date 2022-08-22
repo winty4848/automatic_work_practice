@@ -1,0 +1,5 @@
+name : ÀåÃ¤¿ø
+age : 28
+e-mail : i27ybhppu@kakao.com
+telephone : 010-0747-8207
+sex : female

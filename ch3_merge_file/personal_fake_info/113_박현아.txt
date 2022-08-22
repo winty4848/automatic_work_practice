@@ -1,0 +1,5 @@
+name : ¹ÚÇö¾Æ
+age : 48
+e-mail : msrr4useyc@kakao.com
+telephone : 010-6744-4167
+sex : male

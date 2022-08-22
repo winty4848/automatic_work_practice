@@ -1,0 +1,5 @@
+name : À±¿¹¿ø
+age : 60
+e-mail : twoqmaz2@nate.com
+telephone : 010-3047-5730
+sex : female

@@ -1,0 +1,5 @@
+name : Á¶Áö¿¬
+age : 57
+e-mail : q535y@nate.com
+telephone : 010-9026-4490
+sex : male

@@ -1,0 +1,5 @@
+name : Á¤¹Î¼­
+age : 27
+e-mail : 2112vizhplz@naver.com
+telephone : 010-8347-6583
+sex : male

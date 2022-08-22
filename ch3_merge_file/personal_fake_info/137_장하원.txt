@@ -1,0 +1,5 @@
+name : ÀåÇÏ¿ø
+age : 60
+e-mail : qsfgafqhoo4v@nate.com
+telephone : 010-1675-0416
+sex : male

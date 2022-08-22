@@ -1,0 +1,5 @@
+name : ¹ÚÁö¿ø
+age : 24
+e-mail : rftb8vfpch@naver.com
+telephone : 010-3047-5730
+sex : male

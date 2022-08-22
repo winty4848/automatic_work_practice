@@ -1,0 +1,5 @@
+name : Àå¿¹¿ø
+age : 44
+e-mail : uppq9z@nate.com
+telephone : 010-2097-2720
+sex : male

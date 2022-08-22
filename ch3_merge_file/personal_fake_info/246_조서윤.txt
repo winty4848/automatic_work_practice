@@ -1,0 +1,5 @@
+name : Á¶¼­À±
+age : 27
+e-mail : 1rhg2akw0h5q@kakao.com
+telephone : 010-7098-2070
+sex : female

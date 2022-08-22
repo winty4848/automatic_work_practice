@@ -1,0 +1,5 @@
+name : ¡§¡÷¿±
+age : 29
+e-mail : vx9dzqe5rxva@kakao.com
+telephone : 010-6377-4763
+sex : male

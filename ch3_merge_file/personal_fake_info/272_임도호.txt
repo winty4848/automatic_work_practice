@@ -1,0 +1,5 @@
+name : ¿”µµ»£
+age : 27
+e-mail : nz4ykug@nate.com
+telephone : 010-7285-8772
+sex : male

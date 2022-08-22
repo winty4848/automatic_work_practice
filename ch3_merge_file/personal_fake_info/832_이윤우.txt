@@ -1,0 +1,5 @@
+name : ¿Ã¿±øÏ
+age : 29
+e-mail : 5ysp0@naver.com
+telephone : 010-2725-6727
+sex : male

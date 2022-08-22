@@ -1,0 +1,5 @@
+name : Á¶ÇöÁØ
+age : 53
+e-mail : bwpk345c2d7@nate.com
+telephone : 010-8411-4184
+sex : male

@@ -1,0 +1,5 @@
+name : มคนฮมุ
+age : 31
+e-mail : f5k95agt@nate.com
+telephone : 010-2426-1024
+sex : female

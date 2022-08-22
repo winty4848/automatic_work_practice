@@ -1,0 +1,5 @@
+name : юсгохё
+age : 22
+e-mail : yvinmzh5m46s@nate.com
+telephone : 010-9104-2291
+sex : male

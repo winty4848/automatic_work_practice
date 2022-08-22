@@ -1,0 +1,5 @@
+name : ÀÌ¹Î¿ì
+age : 26
+e-mail : ev1tv@kakao.com
+telephone : 010-2216-2622
+sex : female

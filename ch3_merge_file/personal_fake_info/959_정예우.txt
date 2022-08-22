@@ -1,0 +1,5 @@
+name : Á¤¿¹¿ì
+age : 60
+e-mail : 5mbgss0f@tistory.com
+telephone : 010-9094-5390
+sex : female

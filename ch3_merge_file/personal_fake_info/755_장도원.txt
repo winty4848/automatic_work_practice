@@ -1,0 +1,5 @@
+name : Àåµµ¿ø
+age : 27
+e-mail : esshgy@kakao.com
+telephone : 010-4027-4540
+sex : female

@@ -1,0 +1,5 @@
+name : À±¼­¼­
+age : 28
+e-mail : iidykzr0v@naver.com
+telephone : 010-1453-9414
+sex : male

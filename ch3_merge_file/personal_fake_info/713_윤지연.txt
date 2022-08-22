@@ -1,0 +1,5 @@
+name : À±Áö¿¬
+age : 22
+e-mail : 32pz951e25y@naver.com
+telephone : 010-6622-3166
+sex : male

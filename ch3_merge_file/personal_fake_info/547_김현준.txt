@@ -1,0 +1,5 @@
+name : ฑ่ว๖มุ
+age : 56
+e-mail : v2ftxsd@kakao.com
+telephone : 010-7348-9573
+sex : male

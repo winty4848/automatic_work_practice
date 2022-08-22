@@ -1,0 +1,5 @@
+name : À±¿¹ÈÄ
+age : 25
+e-mail : votqk@tistory.com
+telephone : 010-2913-3829
+sex : female

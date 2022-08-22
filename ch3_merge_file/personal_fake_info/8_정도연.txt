@@ -1,0 +1,5 @@
+name : Á¤µµ¿¬
+age : 28
+e-mail : aublkowu9@tistory.com
+telephone : 010-1003-4810
+sex : male

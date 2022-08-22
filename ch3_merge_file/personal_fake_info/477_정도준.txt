@@ -1,0 +1,5 @@
+name : ¡§µµ¡ÿ
+age : 43
+e-mail : ceoywlxza@nate.com
+telephone : 010-7531-1675
+sex : female

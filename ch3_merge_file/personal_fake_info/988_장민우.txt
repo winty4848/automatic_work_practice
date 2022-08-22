@@ -1,0 +1,5 @@
+name : Àå¹Î¿ì
+age : 23
+e-mail : apzvdasrmefp@naver.com
+telephone : 010-0177-3201
+sex : male

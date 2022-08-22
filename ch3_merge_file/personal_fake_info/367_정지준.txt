@@ -1,0 +1,5 @@
+name : СЄСіСи
+age : 59
+e-mail : k28cg@google.com
+telephone : 010-1932-5119
+sex : female

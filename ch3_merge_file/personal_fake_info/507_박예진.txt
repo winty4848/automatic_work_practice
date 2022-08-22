@@ -1,0 +1,5 @@
+name : ¹Ú¿¹Áø
+age : 44
+e-mail : pu3g1d8uz@nate.com
+telephone : 010-2715-7927
+sex : female

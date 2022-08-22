@@ -1,0 +1,5 @@
+name : ÀÌ¿¹¿ø
+age : 35
+e-mail : u5m8a7lib@naver.com
+telephone : 010-7014-9770
+sex : female

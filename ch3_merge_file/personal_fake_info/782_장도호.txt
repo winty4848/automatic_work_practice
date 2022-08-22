@@ -1,0 +1,5 @@
+name : �嵵ȣ
+age : 43
+e-mail : ow2klvo@kakao.com
+telephone : 010-7586-4775
+sex : male

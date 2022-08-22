@@ -1,0 +1,5 @@
+name : ±èÃ¤¿ì
+age : 50
+e-mail : xrg3gy@google.com
+telephone : 010-6482-3864
+sex : male

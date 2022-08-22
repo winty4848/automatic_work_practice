@@ -1,0 +1,5 @@
+name : а╓ажаЬ
+age : 57
+e-mail : ncounqo@google.com
+telephone : 010-7044-8870
+sex : male

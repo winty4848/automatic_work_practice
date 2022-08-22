@@ -1,0 +1,5 @@
+name : ±è¿¹¼­
+age : 23
+e-mail : 5no9iyaxk2@kakao.com
+telephone : 010-2904-3629
+sex : female

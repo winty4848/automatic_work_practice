@@ -1,0 +1,5 @@
+name : ¿Ãº≠¡ÿ
+age : 52
+e-mail : xp3b9@nate.com
+telephone : 010-2807-4728
+sex : female

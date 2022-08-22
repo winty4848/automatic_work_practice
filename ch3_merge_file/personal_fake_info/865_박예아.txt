@@ -1,0 +1,5 @@
+name : ¹Ú¿¹¾Æ
+age : 51
+e-mail : s9mgquceh@nate.com
+telephone : 010-2142-3521
+sex : male

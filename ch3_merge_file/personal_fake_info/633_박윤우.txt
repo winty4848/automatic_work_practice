@@ -1,0 +1,5 @@
+name : ¹ÚÀ±¿ì
+age : 20
+e-mail : sltfd@nate.com
+telephone : 010-4252-6042
+sex : female

@@ -1,0 +1,5 @@
+name : юс╧н©Ь
+age : 24
+e-mail : rckit@google.com
+telephone : 010-4045-8840
+sex : male

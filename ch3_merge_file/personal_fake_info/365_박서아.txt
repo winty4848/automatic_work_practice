@@ -1,0 +1,5 @@
+name : ¹Ú¼­¾Æ
+age : 40
+e-mail : t0v7xmn@naver.com
+telephone : 010-1932-5119
+sex : male

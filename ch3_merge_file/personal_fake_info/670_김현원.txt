@@ -1,0 +1,5 @@
+name : ±èÇö¿ø
+age : 50
+e-mail : 56a2l@kakao.com
+telephone : 010-5306-3853
+sex : male

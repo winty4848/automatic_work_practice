@@ -1,0 +1,5 @@
+name : ÀÌÁöÈÄ
+age : 42
+e-mail : f9n3pvoio@tistory.com
+telephone : 010-3964-2539
+sex : female

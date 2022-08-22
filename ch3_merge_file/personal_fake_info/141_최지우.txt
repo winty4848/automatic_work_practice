@@ -1,0 +1,5 @@
+name : ÃÖÁö¿ì
+age : 53
+e-mail : 71ohu@naver.com
+telephone : 010-7887-1978
+sex : male

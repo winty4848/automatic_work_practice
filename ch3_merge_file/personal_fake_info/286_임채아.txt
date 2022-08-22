@@ -1,0 +1,5 @@
+name : ¿”√§æ∆
+age : 30
+e-mail : eoyfv@nate.com
+telephone : 010-4591-3345
+sex : male

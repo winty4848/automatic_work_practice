@@ -1,0 +1,5 @@
+name : ¿”√§æ∆
+age : 27
+e-mail : d6lzys@google.com
+telephone : 010-5292-6952
+sex : female

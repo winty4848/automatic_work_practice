@@ -1,0 +1,5 @@
+name : ±èµµ¿¬
+age : 23
+e-mail : ki4z1@naver.com
+telephone : 010-4124-3841
+sex : male

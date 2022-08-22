@@ -1,0 +1,5 @@
+name : ¿Â«œ»£
+age : 24
+e-mail : yt53s@naver.com
+telephone : 010-4027-0740
+sex : male

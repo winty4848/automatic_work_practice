@@ -1,0 +1,5 @@
+name : °­¼­¾Æ
+age : 25
+e-mail : qixm1he@tistory.com
+telephone : 010-8927-9489
+sex : male

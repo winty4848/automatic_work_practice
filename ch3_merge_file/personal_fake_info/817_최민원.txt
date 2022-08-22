@@ -1,0 +1,5 @@
+name : ÃÖ¹Î¿ø
+age : 23
+e-mail : gakphp@naver.com
+telephone : 010-5861-6258
+sex : male

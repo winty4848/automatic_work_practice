@@ -1,0 +1,5 @@
+name : ¿”«œº≠
+age : 43
+e-mail : u7289@google.com
+telephone : 010-7531-1675
+sex : female

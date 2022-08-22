@@ -1,0 +1,5 @@
+name : ¿Â«œº≠
+age : 23
+e-mail : anoz05d@nate.com
+telephone : 010-1816-6018
+sex : female

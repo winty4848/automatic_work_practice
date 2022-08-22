@@ -1,0 +1,5 @@
+name : ÀåµµÈÄ
+age : 30
+e-mail : ozzn86@google.com
+telephone : 010-5155-1651
+sex : male

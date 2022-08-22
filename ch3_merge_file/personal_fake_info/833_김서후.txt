@@ -1,0 +1,5 @@
+name : ±è¼­ÈÄ
+age : 59
+e-mail : 9ts91hgp@kakao.com
+telephone : 010-2725-6727
+sex : female

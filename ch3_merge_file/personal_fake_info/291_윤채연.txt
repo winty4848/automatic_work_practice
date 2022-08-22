@@ -1,0 +1,5 @@
+name : À±Ã¤¿¬
+age : 46
+e-mail : llp556s6@nate.com
+telephone : 010-0212-3502
+sex : male

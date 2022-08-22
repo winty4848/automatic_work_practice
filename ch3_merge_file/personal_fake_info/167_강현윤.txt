@@ -1,0 +1,5 @@
+name : °­ÇöÀ±
+age : 45
+e-mail : pr0repo@kakao.com
+telephone : 010-1704-7917
+sex : male

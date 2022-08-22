@@ -1,0 +1,5 @@
+name : ╧зажаь
+age : 20
+e-mail : rww6h92gfzow@naver.com
+telephone : 010-5434-1354
+sex : female

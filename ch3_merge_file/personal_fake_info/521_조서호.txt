@@ -1,0 +1,5 @@
+name : Á¶¼­È£
+age : 50
+e-mail : yhrfyr46at3@naver.com
+telephone : 010-1048-.910
+sex : male

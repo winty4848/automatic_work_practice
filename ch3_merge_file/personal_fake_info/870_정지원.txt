@@ -1,0 +1,5 @@
+name : Á¤Áö¿ø
+age : 27
+e-mail : kitw5b0y7@nate.com
+telephone : 010-8347-5083
+sex : female

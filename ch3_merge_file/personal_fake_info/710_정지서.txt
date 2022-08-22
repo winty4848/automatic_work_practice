@@ -1,0 +1,5 @@
+name : Á¤Áö¼­
+age : 24
+e-mail : rdzum@tistory.com
+telephone : 010-0424-1604
+sex : male

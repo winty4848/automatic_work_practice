@@ -1,0 +1,5 @@
+name : °­Ã¤È£
+age : 21
+e-mail : yu2uiy@google.com
+telephone : 010-6668-9166
+sex : female

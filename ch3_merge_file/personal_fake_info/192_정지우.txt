@@ -1,0 +1,5 @@
+name : Á¤Áö¿ì
+age : 22
+e-mail : 085r1aqh2ah@nate.com
+telephone : 010-3832-3538
+sex : female

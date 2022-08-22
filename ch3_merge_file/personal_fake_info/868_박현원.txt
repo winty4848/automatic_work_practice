@@ -1,0 +1,5 @@
+name : ¹ÚÇö¿ø
+age : 43
+e-mail : a6dlh5@google.com
+telephone : 010-2142-3521
+sex : female

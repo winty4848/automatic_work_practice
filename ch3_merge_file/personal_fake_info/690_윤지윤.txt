@@ -1,0 +1,5 @@
+name : À±ÁöÀ±
+age : 20
+e-mail : cf0aslo6zh3@nate.com
+telephone : 010-5395-2853
+sex : female

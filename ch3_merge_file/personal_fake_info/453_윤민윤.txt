@@ -1,0 +1,5 @@
+name : ¿±πŒ¿±
+age : 44
+e-mail : 8wgm5o@kakao.com
+telephone : 010-9888-7698
+sex : male

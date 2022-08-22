@@ -1,0 +1,5 @@
+name : ÀåÁö¼­
+age : 28
+e-mail : ly6957zqm2@kakao.com
+telephone : 010-0835-7308
+sex : male

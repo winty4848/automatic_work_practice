@@ -1,0 +1,5 @@
+name : ¿±¡÷¡ÿ
+age : 27
+e-mail : iz10zggx4@tistory.com
+telephone : 010-4505-3545
+sex : male

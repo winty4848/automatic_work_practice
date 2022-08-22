@@ -1,0 +1,5 @@
+name : ÃÖÁöÀº
+age : 60
+e-mail : vwcra@google.com
+telephone : 010-3495-8834
+sex : male

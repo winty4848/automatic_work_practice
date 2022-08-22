@@ -1,0 +1,5 @@
+name : Á¶Áö¾Æ
+age : 24
+e-mail : bzli7ezyl@nate.com
+telephone : 010-5861-6258
+sex : male

@@ -1,0 +1,5 @@
+name : ±èÇöÀº
+age : 32
+e-mail : 599rgh1idpv@nate.com
+telephone : 010-6744-4167
+sex : male

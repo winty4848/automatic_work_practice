@@ -1,0 +1,5 @@
+name : ÀåÇö¿¬
+age : 24
+e-mail : lkpsz3@nate.com
+telephone : 010-8125-6681
+sex : female

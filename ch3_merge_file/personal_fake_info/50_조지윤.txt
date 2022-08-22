@@ -1,0 +1,5 @@
+name : Á¶ÁöÀ±
+age : 24
+e-mail : vsif0z@nate.com
+telephone : 010-9026-4490
+sex : female

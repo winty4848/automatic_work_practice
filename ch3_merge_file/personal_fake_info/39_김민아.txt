@@ -1,0 +1,5 @@
+name : ±è¹Î¾Æ
+age : 24
+e-mail : ae5mioz5szrk@google.com
+telephone : 010-6798-6667
+sex : female

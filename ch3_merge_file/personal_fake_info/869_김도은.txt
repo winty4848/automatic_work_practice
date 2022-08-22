@@ -1,0 +1,5 @@
+name : ±èµµÀº
+age : 22
+e-mail : fxpgtdsu@nate.com
+telephone : 010-2142-3521
+sex : female

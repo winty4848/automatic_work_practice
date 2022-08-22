@@ -1,0 +1,5 @@
+name : ÀåÇöÈ£
+age : 21
+e-mail : okfrkum@naver.com
+telephone : 010-7531-1675
+sex : female

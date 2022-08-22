@@ -1,0 +1,5 @@
+name : ¿±πŒ»£
+age : 29
+e-mail : 41k79@kakao.com
+telephone : 010-8336-1983
+sex : male

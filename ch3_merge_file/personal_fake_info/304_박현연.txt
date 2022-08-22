@@ -1,0 +1,5 @@
+name : ¹ÚÇö¿¬
+age : 52
+e-mail : i07qpfky@nate.com
+telephone : 010-9769-9497
+sex : male

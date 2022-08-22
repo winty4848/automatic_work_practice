@@ -1,0 +1,5 @@
+name : юсц╓©Ь
+age : 40
+e-mail : adqnkw@nate.com
+telephone : 010-0253-2302
+sex : male

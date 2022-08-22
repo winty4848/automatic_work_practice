@@ -1,0 +1,5 @@
+name : นฺม๖มุ
+age : 32
+e-mail : xpzepvtd@google.com
+telephone : 010-9347-3793
+sex : male

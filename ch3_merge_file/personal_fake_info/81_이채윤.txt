@@ -1,0 +1,5 @@
+name : ¿Ã√§¿±
+age : 22
+e-mail : 1chr1r3@naver.com
+telephone : 010-0563-5105
+sex : male

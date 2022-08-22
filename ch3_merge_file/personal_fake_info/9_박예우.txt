@@ -1,0 +1,5 @@
+name : ¹Ú¿¹¿ì
+age : 58
+e-mail : loykhlsasp38@tistory.com
+telephone : 010-7213-6372
+sex : male

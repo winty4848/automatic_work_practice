@@ -1,0 +1,5 @@
+name : юсгою╨
+age : 24
+e-mail : b9ttk0vy@nate.com
+telephone : 010-9948-4799
+sex : male

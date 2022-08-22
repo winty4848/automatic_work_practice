@@ -1,0 +1,5 @@
+name : ¿Ã¿±¿∫
+age : 47
+e-mail : d7e9i5ugzsla@naver.com
+telephone : 010-5685-3556
+sex : male

@@ -1,0 +1,5 @@
+name : ±è¼­Àº
+age : 25
+e-mail : of43b@nate.com
+telephone : 010-2913-3829
+sex : female

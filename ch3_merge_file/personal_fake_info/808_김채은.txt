@@ -1,0 +1,5 @@
+name : ±Ë√§¿∫
+age : 37
+e-mail : 4pobvb@google.com
+telephone : 010-2426-1024
+sex : male

@@ -1,0 +1,5 @@
+name : ±Ë¿±¿∫
+age : 22
+e-mail : chrlaar@google.com
+telephone : 010-1641-2916
+sex : male

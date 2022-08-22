@@ -1,0 +1,5 @@
+name : ю╠гою╨
+age : 24
+e-mail : x8gkzpfn@google.com
+telephone : 010-7348-9573
+sex : male

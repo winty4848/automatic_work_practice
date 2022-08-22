@@ -1,0 +1,5 @@
+name : ±Ë¡÷øÏ
+age : 24
+e-mail : rxznha@tistory.com
+telephone : 010-1453-9414
+sex : female

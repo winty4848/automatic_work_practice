@@ -1,0 +1,5 @@
+name : ภๅว๖มุ
+age : 60
+e-mail : wtzs2z2@google.com
+telephone : 010-7887-1978
+sex : female

@@ -1,0 +1,5 @@
+name : ±èÁöÈ£
+age : 24
+e-mail : 2z76mcw@nate.com
+telephone : 010-1453-9414
+sex : male

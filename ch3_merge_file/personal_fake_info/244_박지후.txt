@@ -1,0 +1,5 @@
+name : ¹ÚÁöÈÄ
+age : 33
+e-mail : kb8ppm@nate.com
+telephone : 010-7098-2070
+sex : male

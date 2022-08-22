@@ -1,0 +1,5 @@
+name : ╧зажаЬ
+age : 25
+e-mail : 7qn6u@nate.com
+telephone : 010-7285-8772
+sex : female

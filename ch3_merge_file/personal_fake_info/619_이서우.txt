@@ -1,0 +1,5 @@
+name : ÀÌ¼­¿ì
+age : 40
+e-mail : nu5ccsomlo@naver.com
+telephone : 010-9178-1291
+sex : male

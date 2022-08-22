@@ -1,0 +1,5 @@
+name : ¹ÚÇÏÁø
+age : 39
+e-mail : gc09ak@nate.com
+telephone : 010-6203-6362
+sex : female

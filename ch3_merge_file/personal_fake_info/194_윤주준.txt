@@ -1,0 +1,5 @@
+name : ¿±¡÷¡ÿ
+age : 23
+e-mail : qex2t9xttuib@nate.com
+telephone : 010-3832-3538
+sex : male

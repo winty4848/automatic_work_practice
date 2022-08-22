@@ -1,0 +1,5 @@
+name : ÀÓÇö¼­
+age : 25
+e-mail : eygzvn@tistory.com
+telephone : 010-8578-7585
+sex : male

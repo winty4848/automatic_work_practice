@@ -1,0 +1,5 @@
+name : À±ÁöÀº
+age : 50
+e-mail : 37g6f79xor28@naver.com
+telephone : 010-3297-0432
+sex : male

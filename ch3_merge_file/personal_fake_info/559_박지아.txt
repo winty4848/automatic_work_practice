@@ -1,0 +1,5 @@
+name : ¹ÚÁö¾Æ
+age : 55
+e-mail : 96b3hokkpks@nate.com
+telephone : 010-5855-8858
+sex : male

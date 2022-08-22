@@ -1,0 +1,5 @@
+name : юсаЖ╬ф
+age : 28
+e-mail : lgc6b@nate.com
+telephone : 010-7531-1675
+sex : male

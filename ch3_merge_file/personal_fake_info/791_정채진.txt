@@ -1,0 +1,5 @@
+name : Á¤Ã¤Áø
+age : 23
+e-mail : gfzu5k7d@naver.com
+telephone : 010-3378-5633
+sex : female

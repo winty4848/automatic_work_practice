@@ -1,0 +1,5 @@
+name : юс╣╣©Ь
+age : 20
+e-mail : f08ekv@google.com
+telephone : 010-0535-9805
+sex : male

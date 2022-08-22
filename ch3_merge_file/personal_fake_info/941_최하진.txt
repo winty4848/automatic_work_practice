@@ -1,0 +1,5 @@
+name : ÃÖÇÏÁø
+age : 23
+e-mail : waduv9zbpz7f@nate.com
+telephone : 010-0487-0704
+sex : male

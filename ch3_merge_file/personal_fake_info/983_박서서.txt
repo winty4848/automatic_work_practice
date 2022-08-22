@@ -1,0 +1,5 @@
+name : ¹Ú¼­¼­
+age : 27
+e-mail : xc47ice4vw@tistory.com
+telephone : 010-3958-1639
+sex : male

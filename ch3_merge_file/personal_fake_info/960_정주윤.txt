@@ -1,0 +1,5 @@
+name : ¡§¡÷¿±
+age : 26
+e-mail : zwtke8@nate.com
+telephone : 010-9094-5390
+sex : female
