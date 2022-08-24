@@ -44,7 +44,7 @@ for filename in input_files:
     if not output_header:
         header = ", ".join(headers)
         output.write(header)
-        outfile_has_header = True
+        output_header = True
 
     # 결과물 파일에 내용물을 입력합니다.
     new_line = ", ".join(contents)
