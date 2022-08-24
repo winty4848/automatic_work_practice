@@ -42,12 +42,14 @@ for filename in input_files:
 
     # 헤더를 파일에 입력합니다. 최초 1회만 실행됩니다.
     if not output_header:
-        header = ", ".join(headers)
+        header = ",".join(headers)
         output.write(header)
         output_header = True
 
     # 결과물 파일에 내용물을 입력합니다.
-    new_line = ", ".join(contents)
+    # 저자 깃허브에는 ', ' 으로 제시되어 있으나 이렇게하면 결과물 파일에 두번째 열부터 문자앞에 공백이 한칸 생김.
+    new_line = ",".join(contents)
+    print(new_line)
     output.write("\n" + new_line)
 
     # 읽어온 파일을 종료합니다.
