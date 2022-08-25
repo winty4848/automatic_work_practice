@@ -43,13 +43,12 @@ os.mkdir("personal_fake_info")
 for i in range(num_sample):
     name=random_name()
 
-    # 결과물 파일 이름 정하기
+    # 결과물 파일에 이름 붙이기(F2 누른거랑 같음)
     filename = "personal_fake_info/" + str(i) + "_" + name + ".txt"
 
     # 파일 생성
     outfile = open(filename, 'w')
 
-    # 결과물 파일에 이름 붙이기(F2 누른거랑 같음)
     outfile.write("이름 : " + name + "\n")
 
     # 20이상 60이하 정수를 뽑아 나이를 설정
